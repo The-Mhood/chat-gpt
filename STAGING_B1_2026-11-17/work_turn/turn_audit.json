@@ -1,0 +1,39 @@
+{
+ "FRONT": {
+  "crown_row": 57,
+  "floor_row": 1159,
+  "fig_height": 1103,
+  "fig_left": 828,
+  "fig_right": 1188,
+  "fig_centre": 1008
+ },
+ "LEFT_SIDE": {
+  "crown_row": 57,
+  "floor_row": 1158,
+  "fig_height": 1102,
+  "fig_left": 892,
+  "fig_right": 1159,
+  "fig_centre": 1025
+ },
+ "BACK": {
+  "crown_row": 57,
+  "floor_row": 1155,
+  "fig_height": 1099,
+  "fig_left": 806,
+  "fig_right": 1206,
+  "fig_centre": 1006
+ },
+ "THREE_QUARTER": {
+  "crown_row": 57,
+  "floor_row": 1157,
+  "fig_height": 1101,
+  "fig_left": 802,
+  "fig_right": 1208,
+  "fig_centre": 1005
+ },
+ "_spread": {
+  "height": 4,
+  "crown": 0,
+  "floor": 4
+ }
+}
