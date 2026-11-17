@@ -1,0 +1,49 @@
+{
+ "paling_footprint": {
+  "gt2": 10116,
+  "gt12": 8814,
+  "gt20": 6464
+ },
+ "hut_halo": {
+  "gt2": 20675,
+  "gt12": 9974,
+  "gt20": 5803
+ },
+ "seam_band": {
+  "gt2": 8138,
+  "gt12": 3282,
+  "gt20": 1485
+ },
+ "blue_cast_band": {
+  "gt2": 38619,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "cloth_line": {
+  "gt2": 7957,
+  "gt12": 5086,
+  "gt20": 3534
+ },
+ "hill_bbox": {
+  "gt2": 14083,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "hall_of_posts": {
+  "gt2": 4652,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "left_compound": {
+  "gt2": 7491,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "frame_bottom": {
+  "gt2": 9461,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "panel_total_gt12": 19602,
+ "panel_max": 178
+}
