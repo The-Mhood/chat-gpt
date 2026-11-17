@@ -49,7 +49,7 @@
 ## Element 7 — "Gates of the Dead" / land of the dead atmosphere
 
 - **Board text:** "THE GATES OF THE DEAD"; footer "This is the game's invented land of the dead and makes no statement about Igbo belief."
-- **Evidence:** Ancestral worlds and death classes are documented but vary by community (C-25, C-26, C-28). A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified (C-09). It is a tree, not a gate or a pole. No single fixed Igbo land of the dead is documented.
+- **Evidence:** Ancestral worlds and death classes are documented but vary by community (C-25, C-26, C-28). A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. [C-09] It is a tree, not a gate or a pole. No single fixed Igbo land of the dead is documented.
 - **Claims:** C-09, C-25, C-26, C-28.
 - **Open questions:** F-14 (is a fictional land of the dead acceptable?), F-15 (which features must never be shown?), F-16 (would the title be read as a real place or ritual?), F-17 (what is the local term for the afterlife?), F-44 (tree grave and boundary markers).
 

@@ -13,14 +13,14 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 
 ## 1. Archaeology and history
 
-**[SHA70] Shaw, Thurstan (1970). *Igbo-Ukwu: An Account of Archaeological Discoveries in Eastern Nigeria*. 2 vols. Evanston: Northwestern University Press.** — T1/T2.
+**[SHA70] Shaw, Thurstan (1970). *Igbo-Ukwu: An Account of Archaeological Discoveries in Eastern Nigeria*. 2 vols. Evanston: Northwestern University Press.** — NOT RETRIEVED in this session (prior knowledge). T1/T2.
 Primary report on Igbo-Ukwu bronzes and the Igbo Richard burial. *Useful for:* burial description, objects, stratigraphy. *Limitations:* 1960s excavation methods and interpretation; identity of the Igbo Richard figure and dating are now DISPUTED.
 
 **[SHA77] Shaw, Thurstan (1977). *Unearthing Igbo-Ukwu: Archaeological Discoveries in Eastern Nigeria*. Oxford: Oxford University Press.** — T2. [VERIFY edition details]
 Popular-scholarly synthesis by the excavator. *Limitations:* author's own interpretation; later revisions exist.
 
 **[SPR22] McIntosh, Susan Keech & Caroline R. Cartwright (2022). "Igbo-Ukwu Textiles: AMS Dating and Fiber Analysis." *African Archaeological Review* 39: 405–418. DOI 10.1007/s10437-022-09502-9 (open access).** — T2. [Retrieved in session: authors, title, journal, volume, pages, DOI, abstract. Full text not read. CORRECTED: the first author is not "Springer".]
-SEM fibre identification of two British Museum fabric samples: bast fibres from one or more *Ficus* species and leaf fibres from *Raphia* sp.; one AMS date. The abstract states that the textiles do not date the Igbo Isaiah objects, and that the technology has largely disappeared from Africa. No silk reported. **Scope:** these findings concern the two examined samples only and must not be generalised to Igbo textiles as a whole. *Limitations:* two samples (per abstract). The British Museum accession numbers AF1979,18.104–.105 and the 1938 provenance (via Carpenter 1939) come from earlier notes and are NOT confirmed in the retrieved abstract — VERIFY in full text.
+SEM fibre identification of two British Museum fabric samples: bast fibres from one or more *Ficus* species and leaf fibres from *Raphia* sp.; one AMS date. The abstract (re-read from the publisher page in the v1.1-final pass) states that the technology has largely disappeared from Africa and calls the AMS date an important new chronological element. It does not state, in the abstract, whether the date applies to the objects; that is not verified. The abstract names no fibres other than *Ficus* and *Raphia*; no silk is named. **Scope:** these findings concern the two examined samples only and must not be generalised to Igbo textiles as a whole. *Limitations:* two samples (per abstract). The British Museum accession numbers AF1979,18.104–.105 and the 1938 provenance (via Carpenter 1939) come from earlier notes and are NOT confirmed in the retrieved abstract — VERIFY in full text.
 
 **[CAR-DEC] Carpenter, D.O. (1939).** — T1. NOT retrieved in session; provenance from earlier notes. VERIFY before any use. Record of 1938 finds (Anozie) as described in earlier notes.
 
@@ -45,10 +45,10 @@ Documents Awka's itinerant smiths. *Useful for:* craft and trade. *Limitations:*
 **[ISI76] Isichei, Elizabeth (1976). *A History of the Igbo People*. London: Macmillan.** — T2.
 Broad synthesis of Igbo history. *Useful for:* general framing. *Limitations:* broad survey; regional detail limited; some views since revised.
 
-**[ONW81] Onwuejeogwu, M. Angulu (1981). *An Igbo Civilization: Nri Kingdom and Hegemony*. London: Ethiope Publishing.** — T2.
+**[ONW81] Onwuejeogwu, M. Angulu (1981). *An Igbo Civilization: Nri Kingdom and Hegemony*. London: Ethiope Publishing.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Study of the Nri polity and ritual authority. *Useful for:* Nri. *Limitations:* Nri-focused; interpretation of Nri hegemony is debated.
 
-**[HEN72] Henderson, Richard N. (1972). *The King in Every Man: Evolutionary Trends in Onitsha Ibo Society and Culture*. New Haven: Yale University Press.** — T2.
+**[HEN72] Henderson, Richard N. (1972). *The King in Every Man: Evolutionary Trends in Onitsha Ibo Society and Culture*. New Haven: Yale University Press.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Onitsha kingship and social change. *Useful for:* Onitsha political history. *Limitations:* Onitsha-specific.
 
 **[ETH-ONI] "'The Demon Superstition': Abominable Twins and Mission Culture in Onitsha History." *Ethnohistory*. [VERIFY year, volume; Gale A75373579].** — T2.
@@ -60,10 +60,10 @@ Argues that the Igbo twin-killing trope was partly a missionary and colonial con
 
 ## 2. Social organisation
 
-**[UCH65] Uchendu, Victor C. (1965). *The Igbo of Southeast Nigeria*. New York: Holt, Rinehart and Winston.** — T2.
+**[UCH65] Uchendu, Victor C. (1965). *The Igbo of Southeast Nigeria*. New York: Holt, Rinehart and Winston.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Classic ethnography of Igbo social organisation. *Useful for:* lineage, marriage, community structure. *Limitations:* mid-20th-century; regional sampling.
 
-**[AMA87] Amadiume, Ifi (1987). *Male Daughters, Female Husbands: Gender and Sex in an African Society*. London: Zed Books.** — T2.
+**[AMA87] Amadiume, Ifi (1987). *Male Daughters, Female Husbands: Gender and Sex in an African Society*. London: Zed Books.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Argues for gender flexibility in Nnobi (Anambra). *Useful for:* women's roles, umuada, Omu. *Limitations:* Nnobi-focused; the interpretation is DISPUTED by some scholars.
 
 **[ILO] Ilogu, Edmund (1974?) — umuada/Omu literature.** — T2 lead. [VERIFY]
@@ -85,12 +85,12 @@ Early ethnography of Igbo women's lives and marriage, including bride-wealth as 
 
 ## 3. Religion and cosmology
 
-**[MET81] Metuh, Emefie Ikenga (1981). *God and Man in African Religion: A Case Study of Igbo of Nigeria*. London: Geoffrey Chapman.** — T2.
+**[MET81] Metuh, Emefie Ikenga (1981). *God and Man in African Religion: A Case Study of Igbo of Nigeria*. London: Geoffrey Chapman.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Key study of Igbo religion and Chukwu. *Useful for:* high god, chi, Ala. *Limitations:* argument on indigenous high god is DISPUTED; written from an academic-religious perspective.
 
 **[OPA] Opata — chi and Chukwu literature.** — T2 lead. [VERIFY full citation]
 
-**[COL82] Cole, Herbert M. (1982). *Mbari: Art and Life among the Owerri Igbo*. Bloomington: Indiana University Press.** — T2.
+**[COL82] Cole, Herbert M. (1982). *Mbari: Art and Life among the Owerri Igbo*. Bloomington: Indiana University Press.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Mbari houses and Ala. *Useful for:* shrine art, ritual landscapes, Owerri. *Limitations:* Owerri-focused; restricted imagery.
 
 **[TAL26] Talbot, P. Amaury (1926). *The Peoples of Southern Nigeria*. 4 vols. London: Oxford University Press.** — T1/T2 (colonial).
@@ -106,10 +106,10 @@ Colonial-era survey of southern Nigerian peoples including Igbo. *Useful for:* e
 
 ## 4. Funerary and ancestral practices
 
-**[BAS21] Basden, G.T. (1921). *Among the Ibos of Nigeria*. London: Seeley, Service.** — T1 (missionary ethnography).
+**[BAS21] Basden, G.T. (1921). *Among the Ibos of Nigeria*. London: Seeley, Service.** — NOT RETRIEVED in this session (prior knowledge). T1 (missionary ethnography).
 Detailed early account of Igbo life, death and burial. *Useful for:* funerary rites, bad death, second burial terminology. *Limitations:* missionary author; sympathetic but colonial; dated.
 
-**[BAS66] Basden, G.T. (1966 reprint; orig. 1938). *Niger Ibos*. London: Frank Cass.** — T1 [VERIFY]. p.114 cited via BJM25: "second burial" is a term adopted by Europeans. Limitations as above.
+**[BAS66] Basden, G.T. (1966 reprint; orig. 1938). *Niger Ibos*. London: Frank Cass.** — NOT RETRIEVED in this session (prior knowledge). T1 [VERIFY]. p.114 cited via BJM25: "second burial" is a term adopted by Europeans. Limitations as above.
 
 **[NT13] Thomas, Northcote W. (1913–14). *Anthropological Report on the Ibo-speaking Peoples of Nigeria*. 4 vols. London: Harrison and Sons.** — T1.
 Government anthropologist's comprehensive report; includes uli and ritual material. *Useful for:* primary ethnographic data, photos. *Limitations:* colonial government context; his categories shaped the record.
@@ -128,11 +128,11 @@ Government anthropologist's comprehensive report; includes uli and ritual materi
 
 **[EZZ] Igwebuike, Ezzaland second burial (ili ozu / ime ekwa) study.** — T2/T4 [VERIFY].
 
-**[ADI08] Adibe, G.E. (2008). *Igbo Mysticism: Power of Igbo Traditional Religion and Society.* Onitsha: Mid-Field Publishers Limited.** — Tier unassessed (popular religious book). NOT retrieved. Cited by Okeke (2022) for the Akpu and Udara white-cloth statements and for other tree-spirituality content. The white-cloth claim therefore rests on this book, which has not been checked. VERIFY before any use.
+**[ADI08] Adibe, G.E. (2008). *Igbo Mysticism: Power of Igbo Traditional Religion and Society.* Onitsha: Mid-Field Publishers Limited.** — Tier unassessed (popular religious book). NOT retrieved. Cited by Okeke (2022) for other tree-spirituality content in the Akpu and Udara paragraphs (botanical name; Udara description). The article gives no separate citation for the white-cloth sentences, so the attribution of those sentences to this book is not explicit. The white-cloth claim therefore rests on OKE22's paraphrase, and this book has not been checked. VERIFY before any use.
 
-**[OHA19] Oha, O. (2019). "Some Sacred Trees in Igbo Culture: Squirreling One's way through their Mysterious Branches." Blog (oha.blogspot.com), as listed in the references of Okeke (2022).** — **Tier 4 (blog).** NOT retrieved. Cited by Okeke (2022) for the statement that the graves of men who die unmarried are symbolised by the Ogirishi tree 'holding' a kitchen knife. Okeke also attributes to it the 'most visible sacred tree' statement; this is not adopted here as established. *Correction:* earlier notes gave this source Tier 2; it is a blog.
+**[OHA19] Oha, O. (2019). "Some Sacred Trees in Igbo Culture: Squirreling One's way through their Mysterious Branches." Blog (oha.blogspot.com), as listed in the references of Okeke (2022).** — **Tier 4 (blog).** NOT retrieved. Cited by Okeke (2022) for the statement that the graves of men who die unmarried are symbolised by the Ogirishi tree 'holding' a kitchen knife. Okeke also attributes to it the 'most visible sacred tree' statement; this is not adopted here. *Correction:* earlier notes gave this source Tier 2; it is a blog.
 
-**[OKE22] Okeke, Ifeanyi J. (2022). "The Human Person, Trees and Spirituality in Igbo Cosmology." *Ochendo: An African Journal of Innovative Studies* 3(1). Association for the Promotion of African Studies. URL: https://www.apas.africa/journal/OAAJIS_3_1_7.pdf** — **Tier 2/4.** Journal of unconfirmed peer-review status; many references are blogs and interviews. Full text retrieved in session (six chunks; page numbers not recorded in the fetched text). Relevant content: (a) Ogirishi: A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. The article gives no source for this statement. The bachelors' knife statement is attributed to Oha (2019). (b) White cloth on the trunks of some sacred trees in some Igbo localities, named for Akpu (silk cotton, *Ceiba pentandra*) and Udara (*Chrysophyllum albidum*), each attributed to Adibe (2008). (c) Oji, Achi, Ngwu, Uha, Ube, Aboshi, Ofo and Anunuebe are described with no cloth statement. (d) Iroko is linked to reincarnation and to burial of the iyi-uwa object under such trees. That is a restricted topic (see C-47; do not reproduce). The article's locality references are Imo State communities; they are not stated as the locality of the Ogirishi statement.
+**[OKE22] Okeke, Ifeanyi J. (2022). "The Human Person, Trees and Spirituality in Igbo Cosmology." *Ochendo: An African Journal of Innovative Studies* 3(1). Association for the Promotion of African Studies. URL: https://www.apas.africa/journal/OAAJIS_3_1_7.pdf** — **Tier 2/4.** Journal of unconfirmed peer-review status; many references are blogs and interviews. Full text retrieved in session (six chunks; page numbers not recorded in the fetched text). Relevant content: (a) Ogirishi: A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. The article gives no source for this statement. The bachelors' knife statement is attributed to Oha (2019). (b) White cloth on the trunks of some sacred trees in some Igbo localities, named for Akpu (silk cotton, *Ceiba pentandra*; a tree name, not a silk textile) and Udara (*Chrysophyllum albidum*). Adibe (2008) appears in both paragraphs for other content; the cloth sentences carry no separate citation. (c) Oji, Achi, Ngwu, Uha, Ube, Aboshi, Ofo and Anunuebe are described with no cloth statement. (d) A restricted ritual association of iroko is described in the article. It is not reproduced here and is recorded in C-47 as an internal sensitivity note. The article names communities in several states (for example Imo and Anambra examples); none is given as the locality of the Ogirishi grave statement, and the white-cloth sentences name no locality.
 
 **[APAS-YOR] Ochendo: An African Journal of Innovative Studies, OAAJIS_1_1_8.pdf.** — **Tier 2/4.** Retrieved as a search snippet only; title and author list not retrieved. Describes white cloth tied around sacred trees in Yoruba contexts (region and original citation not retrieved). **Non-Igbo.** VERIFY before any use.
 
@@ -193,7 +193,7 @@ Key art-historical survey. *Useful for:* shrine walls with cult apparatus (p.89 
 
 **[AID11] Aidoo, Emmanuel K. (2011). "Documentation of the Fante Asafo flags since the year 2000 and their socio-cultural significance." MA thesis, African Art and Culture, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi. Repository record: https://ir.knust.edu.gh/items/5e02ebff-73d3-4338-98b5-e9cd5e5bee75** — **Tier 2 (unpublished MA thesis).** The repository record and abstract were retrieved in session; the full PDF was not read. **Scope:** Cape Coast Asafo companies; flags documented since 2000 and their socio-cultural significance. **Retrieved findings:** many residents recognise the flags but cannot interpret them; no written documentation was found at the Asafo posts visited; documentation is recommended. **Not established by the retrieved record:** pole mounting, funerary use, or any relationship to Igbo practice. A secondary article attributes to Aidoo a record of use from the early eighteenth century; that is not verified in the retrieved record.
 
-**[OTT75] Ottenberg, Simon (1975). *Masked Rituals of Afikpo: The Context of an African Art*. Seattle: University of Washington Press.** — T2.
+**[OTT75] Ottenberg, Simon (1975). *Masked Rituals of Afikpo: The Context of an African Art*. Seattle: University of Washington Press.** — NOT RETRIEVED in this session (prior knowledge). T2.
 Afikpo masquerades and ogo. *Useful for:* masquerade institution and social context. *Limitations:* Afikpo-focused; interpretive choices.
 
 **[OTT89] Ottenberg, Simon (1989). *Boyhood Rituals in an African Society: An Interpretation*. Seattle: University of Washington Press.** — T2. Afikpo initiation.
@@ -270,7 +270,7 @@ Afikpo masquerades and ogo. *Useful for:* masquerade institution and social cont
 - **Comparative traditions outside Igbo:** asafo (Cape Coast) now has one MA thesis (AID11) with limited scope. Bongo posts and vodun cloth-trees have no scholarly source in the package. Scholarly sources are needed before any external comparison is published.
 - **Igbo-specific child burial and infant funerary practice:** not located.
 - **Onyeneke full citation:** not verified.
-- **Igirigi (2025), BJMAS (2025), APAS/Ochendo, ETH-ONI, JCRT (2024), UGW, EZZ, LEJ24:** full bibliographic details require verification before external use.
+- **Igirigi (2025):** author and title retrieved; page numbers not retrieved. **BJMAS (2025), ETH-ONI, JCRT (2024), UGW, EZZ, LEJ24:** full bibliographic details require verification before external use. **APAS/Ochendo:** OAAJIS_3_1_7 full text retrieved (OKE22); OAAJIS_1_1_8 snippet only.
 
 ## Reliability note
 

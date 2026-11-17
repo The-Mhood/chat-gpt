@@ -98,18 +98,18 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | Confidence | Medium (single account; verify) |
 | Sources | IGI25; SPR22 |
 
-### R-08 — Sacred-tree white cloth (adjacent real practice)
+### R-08 — Sacred-tree white cloth (adjacent reported practice)
 
 | Field | Description |
 |---|---|
 | Cultural element | White cloth wrapped around the trunk of some sacred trees (reported: Akpu, Udara) |
-| Historical evidence | Reported as devotional in some localities in one secondary article (Okeke 2022, citing Adibe 2008). Not funerary. Primary sources unverified |
+| Historical evidence | Reported as devotional in some localities in one secondary article (Okeke 2022). The cloth sentences carry no separate citation there. Not funerary. Primary sources unverified |
 | Geographic scope | REGIONALLY SPECIFIC |
 | Risk | **Restricted** |
 | Potential misrepresentation | Field of cloth read as a version of this sacred practice; sacred practice depicted without authority |
 | Recommendation | **Avoid** as visual source; **Consult** |
 | Confidence | Medium |
-| Sources | OKE22 (citing ADI08); search record |
+| Sources | OKE22 (ADI08 cited in the same paragraphs, not retrieved); search record |
 
 ### R-09 — Ikenga ritually broken and buried with owner
 

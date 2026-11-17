@@ -1,6 +1,6 @@
 # Consultant Evidence Pack — THE DISOBEDIENT DAUGHTER
 Subject: Cultural-consultant review of `ENV_GATES_DEAD_FIELD_OF_CLOTH_V001` (register CH07-SUB-005, PROPOSED; decision register D9 — PENDING CONSULTANT REVIEW)
-Prepared: 2026-11-17 · Version: v1.1 (correction pass; see `07_Correction_Manifest_v1.1.md`) · Status: DRAFT. Not for consultant distribution until the Technical Director approves this version.
+Prepared: 2026-11-17 · Version: v1.1 final (correction pass, 2026-11-17; see `07_Correction_Manifest_v1.1.md`) · Status: DRAFT. Not for consultant distribution until the Technical Director approves this version.
 
 ---
 

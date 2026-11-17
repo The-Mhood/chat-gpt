@@ -25,7 +25,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 - **Igbo-Ukwu** (Anambra) produced bronze and copper-alloy objects, including the Igbo Richard burial: a wood-lined chamber with a seated body, a studded stool, a bronze diadem and a carnelian bead. Excavated by Thurstan Shaw; reported in SHA70 and SHA77 (Tier 1/2). **DOCUMENTED.**
 - **Dating is DISPUTED.** The standard reading places the main Igbo-Ukwu deposits around the ninth century; radiocarbon results include a later outlier, and recent reanalyses continue the debate [SHA70; SCI26 (Tier 4 lead)]. Do not state a single date.
 - **Identity of the Igbo Richard figure is DISPUTED.** Shaw's identification as an Eze Nri (sacred king) is contested; an alternative reading is an ozo titleholder [SHA70; ONW81].
-- **Textiles (Igbo-Ukwu):** McIntosh & Cartwright's 2022 AMS and SEM fibre study (*African Archaeological Review* 39: 405–418; DOI 10.1007/s10437-022-09502-9) of two British Museum fabric samples (scope: these two samples only; not generalisable to Igbo textiles as a whole) found bast fibres from *Ficus* (fig tree) species combined with leaf fibres from *Raphia* palm, indicating a complex indigenous weaving technology, with selvedges and seams. **No silk has been confirmed.** Earlier 1960s analysis could not identify the plant fibres. Do not describe Igbo-Ukwu cloth as silk. **DOCUMENTED** (*Ficus* bast and *Raphia* leaf fibre, SEM identification) [SPR22].
+- **Textiles (Igbo-Ukwu):** McIntosh & Cartwright's 2022 AMS and SEM fibre study (*African Archaeological Review* 39: 405–418; DOI 10.1007/s10437-022-09502-9) of two British Museum fabric samples (scope: these two samples only; not generalisable to Igbo textiles as a whole) found bast fibres from *Ficus* (fig tree) species combined with leaf fibres from *Raphia* palm, indicating a complex indigenous weaving technology. **No silk is named in the abstract.** Earlier 1960s analysis could not identify the plant fibres. Do not describe Igbo-Ukwu cloth as silk. **DOCUMENTED** (*Ficus* bast and *Raphia* leaf fibre, SEM identification) [SPR22].
 - **Nsukka region:** this package has not yet reviewed Nsukka-region archaeology in depth. **GAP** — see Part VIII.
 - **Iron:** a 2024 study reports iron smelting at Lejja at roughly 2000 years before present [LEJ24 — Tier 2, single study; **CORROBORATED** status pending a second independent study]. A claim of smelting at Opi from about 750 BC was found only in Tier 4 leads and is **SPECULATIVE** here.
 
@@ -112,7 +112,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 - Divination practices are **restricted**; published detail should not be treated as a licence to reproduce them.
 
 ### II.9 Sacred spaces, shrines, groves and ritual landscapes
-- **Sacred trees:** white cloth wrapped around a tree trunk is reported in some Igbo localities. The one retrieved article that describes it (Okeke 2022, citing Adibe 2008) names two trees with this statement: *Akpu* (silk cotton, *Ceiba pentandra*) and *Udara* (*Chrysophyllum albidum*). The same article describes other sacred trees (Oji, Achi, Iroko, Ngwu, Uha, Ube, Aboshi, Ofo) without any cloth statement. The practice is devotional, not funerary, and REGIONALLY SPECIFIC. The primary source has not been checked. [OKE22; ADI08]
+- **Sacred trees:** white cloth wrapped around a tree trunk is reported in some Igbo localities. The one retrieved article that describes it (Okeke 2022) names two trees with this statement. Adibe (2008) is cited in those paragraphs for other content; the cloth sentences carry no separate citation: *Akpu* (silk cotton, *Ceiba pentandra*) and *Udara* (*Chrysophyllum albidum*). The same article describes other sacred trees (Oji, Achi, Iroko, Ngwu, Uha, Ube, Aboshi, Ofo) without any cloth statement. The practice is devotional, not funerary, and REGIONALLY SPECIFIC. The primary source has not been checked. [OKE22; ADI08]
 - **Ogirishi tree:** A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. Okeke (2022, Ochendo) states that the graves of men who die unmarried are symbolised by the tree 'holding' a kitchen knife, citing Oha (2019), a blog. Not an established Igbo grave marker. [OKE22; OHA19]
 - **Shrine walls:** in the Awka area, sculptures of gods and their supporters are arranged against a shrine wall "often hung with cult apparatus" [COA84, p.89]. This is **REGIONALLY SPECIFIC** (Awka), and the apparatus is not described as strips on poles.
 - **Obu / obi / ovu / obiri** (ancestral and meeting halls) are named differently across communities [OZI25 — Tier 4 lead]. Their architecture is **REGIONALLY SPECIFIC**.
@@ -177,7 +177,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 - Community gateways and boundaries (thresholds) were marked by trees and shrines. **REGIONALLY SPECIFIC.**
 
 ### IV.8 Trees, posts, columns, compounds and thresholds
-- **Trees:** sacred trees with white cloth (II.9). **REGIONALLY SPECIFIC.**
+- **Trees:** sacred trees with white cloth, in one secondary report (II.9). **REGIONALLY SPECIFIC.**
 - **Posts and columns:** carved house posts and shrine figures are documented in several communities. **REGIONALLY SPECIFIC.** No source reviewed documents free-standing poles carrying cloth strips.
 - **Compounds:** a major unit of social and ritual life. **CORROBORATED.**
 
@@ -220,7 +220,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 - Figures from Igbo-Ukwu are archaeological; their identity and function are **DISPUTED**.
 
 ### V.9 Historical forms of memorialisation
-- Memorial practice includes shrines, ancestral halls, second burial, mbari houses (Owerri), and the sacred tree with white cloth. **REGIONALLY SPECIFIC.**
+- Memorial practice includes shrines, ancestral halls, second burial, mbari houses (Owerri), and, in one secondary report, the sacred tree with white cloth. **REGIONALLY SPECIFIC; secondary report only.**
 - Nsude's ten circular stepped mud pyramids dedicated to the Uto deity were photographed by G.I. Jones in the 1930s; reports say they were destroyed around 1962 [JON84; MAA (Tier 3)]. **REGIONALLY SPECIFIC**; they bear no cloth, which matters for the Field of Cloth assessment.
 
 ### V.10 Traditional versus contemporary
@@ -251,7 +251,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 - Dibia afa and dibia ogwu. See II.8. **CORROBORATED.**
 
 ### VI.7 Music, dance and oral performance
-- Ogene (iron bell), ekwe (slit drum), udu (pot drum), igba (membrane drum), ichaka (basket rattle), oja (wooden whistle) and ubo aka (thumb piano) are documented; ogene is performed at marriage, praise, funerals and other events. **CORROBORATED** [GAR20; MEL (Tier 4); AKA (Tier 4)].
+- Ogene (iron bell), ekwe (slit drum), udu (pot drum), igba (membrane drum), ichaka (basket rattle), oja (wooden whistle) and ubo aka (thumb piano) are reported as Igbo instruments; ogene is performed at marriage, praise, funerals and other events. **CORROBORATED (weak: Tier 4 sources only)** [GAR20; MEL (Tier 4); AKA (Tier 4)]. Pre-colonial origin is not established in the sources reviewed.
 - Ekwe is used to summon assemblies in some communities. **REGIONALLY SPECIFIC.**
 - Atilogwu and masquerade (mmanwu/mmonwu) orchestration are documented in later and contemporary contexts. **COL-DEV / CONTEMP.**
 
@@ -312,6 +312,6 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo culture · Working date 2026-11-17
 2. **Idemili and other river deities:** not yet reviewed in depth.
 3. **Igbo-Ukwu dating and identity:** DISPUTED; no single answer.
 4. **Chukwu's pre-colonial status:** DISPUTED.
-5. **Funerary cloth-on-structure practices:** only one devotional practice (sacred tree) confirmed; no pole-and-cloth funerary practice found.
+5. **Funerary cloth-on-structure practices:** the only devotional cloth-on-structure practice found is sacred-tree white cloth, reported in one secondary article and not verified against its primary source. No pole-and-cloth funerary practice was found.
 6. **Colonial-era writing:** many key sources are colonial-authored; their reliability is contested in parts.
 7. **Living custodians:** all restricted topics require consultation (see Deliverable F).

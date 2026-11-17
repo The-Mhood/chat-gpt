@@ -60,7 +60,7 @@ Each element is assessed separately. Multiple classifications apply. Confidence 
 - **Classification:** POTENTIALLY MISLEADING and CULTURALLY SENSITIVE.
 - **Evidence:**
   - Not documented in the sources reviewed as a pre-colonial Igbo funerary, mourning or memorial marker (B.7.2).
-  - The closest reported Igbo cloth-on-structure practice is white cloth on the trunk of some sacred trees (devotional, REGIONALLY SPECIFIC; secondary source only) [OKE22; ADI08 — unverified].
+  - The closest reported Igbo cloth-on-structure practice is white cloth on the trunk of some sacred trees (devotional, REGIONALLY SPECIFIC; one secondary report only; primary source not retrieved) [OKE22; the cloth sentences carry no separate citation; ADI08 cited in the same paragraphs for other content; unverified].
   - Cloth as grave goods and corpse covering is documented (REGIONALLY SPECIFIC) [IGI25]. Grey cloth is not described in these accounts; black cloth is.
 - **Caution:** the strip is a **burial-cloth** motif in the board's own wording. A viewer may read it as a grave goods or corpse-cloth reference. That is a claim about Igbo burial, which is not supported by evidence for this form.
 - **Confidence:** High that no documented equivalent was found; Medium that the reading as burial cloth is a risk; a consultant is required to confirm sensitivity.
@@ -126,13 +126,13 @@ The Creative Director asked for distinct labels. These are the working answers.
 **Confidence:** Medium.
 
 ### Q3. If comparable arrangements exist, what were their actual purposes?
-- **Sacred-tree cloth:** devotional; shrine or lineage honour. Not funerary in the sources reviewed.
+- **Sacred-tree cloth:** devotional, per the one secondary report; community-shrine context in that report. Not funerary in the sources reviewed.
 - **Shrine-wall cult apparatus:** shrine and ritual objects; restricted.
 - **Ukara (Cross River; Igbo attribution UNVERIFIED, Ekpe):** cloth in meeting houses; restricted and tied to a society. Tier 4 lead; VERIFY.
 **Confidence:** Low–Medium.
 
 ### Q4. Were they associated with burial, mourning, memorialisation, title-taking, religious ceremonies or something else?
-- Sacred-tree cloth: religious / devotional.
+- Sacred-tree cloth: religious / devotional, per the one secondary report.
 - Grave goods and corpse covering: burial.
 - Shrine-wall apparatus: religious and ritual.
 - Ukara: society and title-related (Ekpe).
@@ -145,7 +145,7 @@ The Creative Director asked for distinct labels. These are the working answers.
 
 ### Q6. Could the proposed imagery unintentionally resemble a sacred or restricted practice?
 **Yes.** Two candidates:
-1. **Sacred-tree white cloth:** the field's cloth-on-vertical-structure could be read as a version of this devotional practice, which is sacred. Colour and form differ, but a viewer may connect them.
+1. **Sacred-tree white cloth:** the field's cloth-on-vertical-structure could be read as a version of this devotional practice, which is reported (secondary source only) as sacred. Colour and form differ, but a viewer may connect them.
 2. **Grave goods and corpse covering:** a cloth on each grave-like marker could be read as a restricted burial practice of titled men, which is sacred to the families.
 **Confidence:** Medium.
 
@@ -195,11 +195,11 @@ See **Deliverable F**. The most important are: (i) whether any community uses cl
 
 ### 6.1 What can we confidently represent as historically grounded in pre-colonial Igbo culture?
 - Community-specific ancestral and shrine structures (obi/obu/ovu halls, shrine walls, shrine figures) in general terms, with regional labels. **REGIONALLY SPECIFIC.**
-- Grave-related cloth as a general material fact: cloth was interred with the dead or used to cover the body in some communities. Use only with regional labels. **REGIONALLY SPECIFIC.**
+- Grave-related cloth, reported only in one community's account (IGI25): cloth covering the body and cloth interred with the dead. Use only with that community's regional label; do not present it as a general Igbo fact. **REGIONALLY SPECIFIC; VERIFY.**
 - Two examined Igbo-Ukwu textile samples (British Museum): *Ficus* bast and *Raphia* leaf fibre, with no silk reported. These findings concern the two samples only and do not describe Igbo textiles generally. **DOCUMENTED for the two samples.**
 - Iron-working and smithing, bronze work at Igbo-Ukwu (with the dating dispute noted). **DOCUMENTED.**
 - The four-day market week as a general cultural fact. **CORROBORATED.**
-- Ogene and ekwe as musical instruments. **CORROBORATED.**
+- Ogene and ekwe as Igbo instruments. **CORROBORATED (weak: Tier 4 sources only).** Pre-colonial origin is not established in the sources reviewed.
 
 ### 6.2 What should we avoid representing?
 - Any cloth strip hung individually from a pole as an Igbo funerary, mourning or memorial marker. **NOT DOCUMENTED.**

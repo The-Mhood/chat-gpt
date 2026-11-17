@@ -34,7 +34,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 | Camwood red dyed cloth | Some communities | QUALIFY | Regional use |
 | Akwete cloth (figured patterned weave) | 19th-century Akwete tradition | QUALIFY | Not deep pre-colonial; regional [AKW] |
 | Ukara cloth (Cross River; Igbo attribution UNVERIFIED, Ekpe) | Late 19th century; restricted | CONSULT | Society-restricted [UKA (Tier 4 lead; VERIFY)] |
-| White cloth on sacred tree trunk | Devotional, some localities | CONSULT | Restricted; do not use as motif |
+| White cloth on sacred tree trunk (Akpu, Udara) | Devotional, some localities; one secondary report [OKE22] | CONSULT | Restricted; do not use as motif |
 | Black cloth covering a corpse | Titled men's funerary practice in one account | CONSULT | Burial-associated |
 | Grave-goods cloth (fathoms) | Titled funerary practice | CONSULT | Burial-associated |
 | Grey cloth as burial cloth | No documented equivalent | AVOID | See Deliverable C, E3 |
@@ -91,7 +91,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 
 | Item | Context | Status | Notes |
 |---|---|---|---|
-| Ogene (iron bell) | Music, marriage, funeral | SAFE as instrument | Restricted ceremonial use detail [GAR20] |
+| Ogene (iron bell) | Music, marriage, funeral | SAFE as instrument (weak evidence: Tier 4 sources only; pre-colonial origin not established) | Restricted ceremonial use detail [GAR20] |
 | Ekwe (slit drum) | Summons assemblies | SAFE as instrument | Regional use |
 | Udu, igba, ichaka, oja, ubo aka | Music | SAFE as instrument | [GAR20; MEL] |
 | Ikenga (personal carved object) | Achievement; ritually buried with owner | CONSULT | Restricted; grave-related |

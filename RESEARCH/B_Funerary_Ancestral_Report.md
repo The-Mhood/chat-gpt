@@ -1,7 +1,7 @@
 # Deliverable B — Funerary and Ancestral Practices Report
 THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-speaking communities · Working date 2026-11-17
 
-> **Headline:** No documented pre-colonial Igbo practice was found in which cloth strips hang individually from free-standing poles as a funerary, mourning, memorial or spiritual marker. The documented cloth-and-death practices are different in form: cloth as grave goods; a black cloth covering the corpse; a singular white cloth on a sacred tree; and cloth on shrine walls in Awka-area shrines. Evidence is **REGIONALLY SPECIFIC** throughout. Absence in the sources reviewed is not proof of absence.
+> **Headline:** No documented pre-colonial Igbo practice was found in which cloth strips hang individually from free-standing poles as a funerary, mourning, memorial or spiritual marker. The reported cloth-and-death practices differ in form: cloth as grave goods and a black cloth covering the corpse (both from one community's account); a white cloth on the trunk of some sacred trees (one secondary report only); and cult apparatus on Awka-area shrine walls (cloth not specified). Evidence is **REGIONALLY SPECIFIC** throughout. Absence in the sources reviewed is not proof of absence.
 
 ---
 
@@ -133,7 +133,7 @@ Treat the following as **restricted** unless a qualified custodian advises other
 | Owerri area | Mbari houses; okoroshi | REGIONALLY SPECIFIC |
 | Nsukka area | Odo/Omabe masquerades | REGIONALLY SPECIFIC (VERIFY) |
 | Ohafia/Abam | Ogbu-Isi; iri agha; war dance objects | REGIONALLY SPECIFIC |
-| Sacred trees (various) | White cloth around trunk | REGIONALLY SPECIFIC (VERIFY) |
+| Sacred trees (Akpu, Udara named) | White cloth around trunk; one secondary report | REGIONALLY SPECIFIC; primary source (ADI08) not retrieved |
 
 ---
 
@@ -148,8 +148,8 @@ Does the documented record show hanging cloth strips from individual poles, post
 |---|---|---|---|
 | Cloth strips hung from individual free-standing poles in a field | **No** | No source reviewed (55–60 searches, count approximate across searches and fetched pages) describes this | NOT FOUND — not evidence of absence |
 | Cloth on a sacred tree trunk | **Reported (secondary only)** | White cloth on the trunk of some sacred trees in some Igbo localities. The retrieved article names Akpu (silk cotton) and Udara. Iroko, Oji and Achi are not described with cloth in the retrieved text | REGIONALLY SPECIFIC; devotional, not funerary; source chain OKE22 → ADI08 (unverified) |
-| Cloth covering a corpse | **Yes** | Black cloth covering corpse in one community's account | REGIONALLY SPECIFIC [IGI25] |
-| Cloth as grave goods | **Yes** | Measured in fathoms; more for titled men | REGIONALLY SPECIFIC [IGI25] |
+| Cloth covering a corpse | **Yes (one community's account)** | Black cloth covering corpse in one community's account | REGIONALLY SPECIFIC [IGI25] |
+| Cloth as grave goods | **Yes (one community's account)** | Measured in fathoms; more for titled men | REGIONALLY SPECIFIC [IGI25] |
 | Cloth hung on shrine walls | **Not specified** | Awka-area shrine walls "hung with cult apparatus"; the source does not name cloth | REGIONALLY SPECIFIC [COA84 p.89] |
 | Ukara cloth hung in Ekpe meeting houses | **Yes (Cross River; Igbo attribution UNVERIFIED)** | Late 19th century; used in society meeting houses; restricted | REGIONALLY SPECIFIC; source tier 4 lead, VERIFY |
 | Poles and posts as memorial markers | **Partly** | Ancestral figures and house posts; Nsude pyramids (no cloth) | REGIONALLY SPECIFIC; no cloth |
@@ -167,9 +167,9 @@ These are reported elsewhere (scope varies by item; see each bullet) and **must 
 **Risk:** a viewer familiar with asafo flags or vodun trees may read a pole-and-cloth field as a different West African tradition. This misattribution risk is **Medium–High** if the game is marketed as Igbo-inspired.
 
 ### B.7.4 Analysis
-- **The sacred-tree white cloth is the closest reported Igbo cloth-on-structure devotional practice (secondary source only).** It differs in form (one tree, one cloth wrapped around the trunk), meaning (devotional/shrine, not burial), and social location (community or lineage shrine).
-- **The grave-goods and corpse-covering practices are the closest documented cloth-and-death practices.** They differ in form (cloth buried with or over the body, not on poles above the field) and place (within the compound or grave).
-- **The Field of Cloth arrangement combines** a sacred-tree-like form (cloth on a single vertical structure), a grave-goods-like material (grey cloth), and a funerary atmosphere, in a repeated field of structures that no documented Igbo practice matches.
+- **The sacred-tree white cloth is the closest reported Igbo cloth-on-structure devotional practice (secondary source only).** It differs in form (one tree, one cloth wrapped around the trunk), meaning (devotional/shrine, not burial), and social location (community shrine, as the one secondary article describes it).
+- **The grave-goods and corpse-covering practices are the closest cloth-and-death practices reported in the sources reviewed, but both rest on one community's account (IGI25; VERIFY).** They differ in form (cloth buried with or over the body, not on poles above the field) and place (within the compound or grave).
+- **The Field of Cloth arrangement combines** a sacred-tree-like form (cloth on a single vertical structure; the sacred-tree report is secondary only), a grave-goods-like material (grey cloth), and a funerary atmosphere, in a repeated field of structures that no documented Igbo practice matches.
 - This combination is **FICTIONAL** as a whole. Individual elements have **REGIONALLY SPECIFIC** Igbo references (see Deliverable C).
 
 ### B.7.5 Overall funerary finding for pole-and-cloth imagery
@@ -181,7 +181,7 @@ These are reported elsewhere (scope varies by item; see each bullet) and **must 
 
 ## B.8 Conclusions for funerary representation
 
-1. Igbo funerary cloth is real and important — **as grave goods, corpse covering and sacred-tree devotion** — and should be treated with care.
+1. Igbo funerary cloth is reported in the sources reviewed in two forms that are **not of equal evidence strength**: (a) **grave goods and corpse covering**, both from one community's account (IGI25; VERIFY; REGIONALLY SPECIFIC); and (b) **sacred-tree devotion**, reported in one secondary article; the cloth sentences carry no separate citation there, and the cited primary source (ADI08) was not retrieved (OKE22). Both should be treated with care.
 2. The pole-and-cloth field has no documented Igbo equivalent in the sources reviewed.
 3. Any representation of burial or death imagery should be consulted with a living custodian before reproduction (Deliverable F).
 4. Igbo death practices vary by community, class and gender. A single "Igbo funeral" image must not be used.

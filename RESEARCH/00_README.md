@@ -26,7 +26,7 @@ Final recommendation to the Creative Director (Section 7 questions) is in `C_Fie
 
 ## Corrections (2026-11-17)
 
-A verification pass corrected several citations and facts in this package, including the Igbo-Ukwu textile authorship and fibre identification, the Igirigi author, the Obimo source lineage, and the Nsibidi attribution. The full list is in `../EVIDENCE_PACK/06_Corrections_and_Open_Issues.md`. Second-pass corrections (v1.1) are in `../EVIDENCE_PACK/07_Correction_Manifest_v1.1.md`.
+A verification pass corrected several citations and facts in this package, including the Igbo-Ukwu textile authorship and fibre identification (two samples), the Igirigi author, the Obimo source lineage, and the Nsibidi attribution. The full list is in `../EVIDENCE_PACK/06_Corrections_and_Open_Issues.md`. Second-pass corrections (v1.1) are in `../EVIDENCE_PACK/07_Correction_Manifest_v1.1.md`.
 
 ## Conventions
 
