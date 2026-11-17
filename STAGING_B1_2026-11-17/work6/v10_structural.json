@@ -1,0 +1,37 @@
+{
+ "method": "pre-grain panels only (est_v9_p5 vs est_v10_p2); panel origin (60,152)",
+ "panel": "1901x1169",
+ "mound_bbox": {
+  "gt2": 274928,
+  "gt12": 101913,
+  "gt20": 49526
+ },
+ "hall_of_posts": {
+  "gt2": 0,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "left_compound": {
+  "gt2": 0,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "foreground_right_compound": {
+  "gt2": 0,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "frame_bottom": {
+  "gt2": 0,
+  "gt12": 0,
+  "gt20": 0
+ },
+ "panel_total_gt12": 101913,
+ "panel_total_gt20": 49526,
+ "max": 195,
+ "sky_band_x0_1440_y120_151": {
+  "gt2": 41,
+  "gt12": 0,
+  "gt20": 0
+ }
+}
