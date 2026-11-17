@@ -90,3 +90,36 @@ Chrome typeface disclosure: the board's original typeface is unavailable offline
 2. The midriff transfer is resampled by 1 % because V004 and V005 are aligned at scale 1.01 — the transferred skin is marginally softer than its surroundings.
 3. The armlet is a painted reconstruction; no approved armlet patch exists to transfer.
 4. Difference threshold for "changed" is sum|ΔRGB| > 12, i.e. above JPEG quantisation noise; sub‑threshold changes inside the masks are not counted.
+
+---
+
+## 6. VR-008 V008 — armlet transfer (2026-11-17)
+
+| Item | Path / ID | Bytes | MD5 | SHA‑256 |
+|---|---|---|---|---|
+| Reference source | `refs/CHAR_ADANNA_MASTER_REFERENCE_V001.jpg` · `1FY3hw3602iB-1405RgUIO3ih2USmck_Y` | — | `901a5009ab5ff44a81fb3799c7e6de6d` | — |
+| Working panel | `work2/V008_panel.png` | — | — | — |
+| **Candidate** | `final/CAND_VR-008_V008_2560x1440.png` | 3,129,530 | `a41548911b4d991e7e05aad6474441aa` | `cfc2788fa7c0762b86d76f24c6b7cebb214cf9cc4242b51c9a778365f4e3df4e` |
+| Comparison board (with references) | `submit/B2_COMPARE_VR-008_V005_to_V008_with_references.jpg` | 730,009 | `cdf09d5f7bf0ee321c971db371516c61` | — |
+
+### Edit inventory
+
+| Region | Coordinates (panel 1901×1169) | Changed px vs V005 |
+|---|---|---|
+| A fracture (unchanged from V007) | x 425–528, y 512–862 | 1,504 |
+| B midriff (unchanged from V007) | x 852–1000, y 614–764 | 8,481 |
+| C armlet (transfer, replaces V007's painting) | x 996–1080, y 533–632 | 2,209 |
+| outside all three | — | **0** |
+| V007 → V008 | x 998–1076, y 545–620 | 4,092, all inside C |
+
+Chrome for V008: header `V007`→`V008` (320 px), KNOWN ISSUES erasure reused (4,185 px), footer line 2 re-set (8,108 px), footer note rewritten for the transfer (9,714 px). No other pixel of the frame differs from V005.
+
+### Transfer parameters (reproducible)
+
+Source crop `(580,1010)–(800,1140)` of the master; rotate −7.6°; take `(45,46)–(200,110)` of the rotated crop; resample to 74×29; grade source mean 23.9 → 31.4 (= 0.86 × local arm mean 36.6); bow 2.6 px; edge fade 6 px horizontally, 2.5 px vertically; occlusion 0.45 at 1.6 px blur.
+
+### Disclosed limits
+
+1. The band is downscaled ≈3× from the close-up portrait to this arm's width, so the finest groove detail is softened — inherent to the size difference, not a defect of the transfer.
+2. The band's ends fade into the arm rather than showing a clasp; the reference does not expose a clasp at this angle either.
+3. Chrome typeface remains DejaVu Sans for the re-set footer and note (board typeface unavailable offline).

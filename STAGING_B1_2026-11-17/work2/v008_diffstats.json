@@ -1,0 +1,20 @@
+{
+ "V007": {
+  "A fracture": 1504,
+  "B midriff": 8481,
+  "C armlet": 3633,
+  "outside masks": 0,
+  "total": 13618
+ },
+ "V008": {
+  "A fracture": 1504,
+  "B midriff": 8481,
+  "C armlet": 2209,
+  "outside masks": 0,
+  "total": 12194
+ },
+ "v7_to_v8": {
+  "total": 4092,
+  "inside": 4092
+ }
+}

@@ -117,3 +117,25 @@ Earlier register, ledger and manifest remain in the folder untouched; the v2 fil
 ### VR-010 — blocked
 
 No rejection report exists for `ENV_HOME_SETTLEMENT_WASHING_PLACE`. `16_REJECTED_DESIGNS` contains three files only, and `search_files 'REJECTION'` returns the VR-008 report alone. Correction therefore cannot start without inventing its defect list. Reported as blocked with the evidence rather than worked blind.
+
+---
+
+## Cycle 3 — VR-008 V008 armlet transfer + errata (2026-11-17)
+
+Trigger: my own review of the approved character master, re-run after the rejection report was updated to 18,150 B. **It disproved a claim I had made in the V007 package.**
+
+| File | Drive ID | Bytes | MD5 |
+|---|---|---|---|
+| `B2_CAND_VR-008_SEALED_QUARTER_V008_2560x1440.png` | `1FA2wXlDlbPmasTSc4zMmuvWt_nlTNXH-` | 3,129,530 | `a41548911b4d991e7e05aad6474441aa` |
+| `B2_COMPARE_VR-008_V005_to_V008_with_references.jpg` | `1FSpdjZBhXqzaRXBDt8WzB_HFxdAVjnJk` | 730,009 | `cdf09d5f7bf0ee321c971db371516c61` |
+| `B2_ERRATA_VR-008_V007_ARMLET.md` | `12WJLRjnQ6IJoMsYigJMQYN7Boy_wEuSo` | 7,658 | `3a8f21b41ee9a88bf0842b475b7e2d9e` |
+| `B2_CANDIDATE_REGISTER_v3_2026-11-17.md` | `1fEhvp7x5KK4j8XxxkGmbXk-KTNXSQU3e` | 18,527 | `2eca1ac9f558ee56a861ac625e951302` |
+| `B2_STAGING_LEDGER_v3_2026-11-17.md` | `1mODNxtojxzg8UHjSBuRiXMsKRfYAQofw` | 11,799 | `683d64c0b52bfca97c023b2c1f31c065` |
+
+Round-trip: V008 re-downloaded from Drive, `cmp` byte-identical, then **audited on the downloaded bytes** — 12,194 changed px, all inside the three masks, 0 outside; every invariant region 0.
+
+Notice comment: `doco.RHlKDjh1qrTYts7d0eRmGA`.
+
+### Monitor
+
+`16_REJECTED_DESIGNS` = 5 files. VR-008 report updated (18,150 B, `4218a8af…`, §8 provenance addendum). `B2_CAND_ESTABLISHING_V006` and `B2_CAND_WALL_OF_HOUSES_V004` were **moved in** from the submissions folder by the reviewer — IDs and MD5s unchanged, submissions 23 → 21. **No reports for either**, so neither correction has begun.

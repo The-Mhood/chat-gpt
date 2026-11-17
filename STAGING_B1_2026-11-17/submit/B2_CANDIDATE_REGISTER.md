@@ -153,3 +153,27 @@ V006 was **REJECTED — REVISION REQUIRED**. The response is a new version, V007
 **Retraction of my retraction.** V006's rejection proves defect B was real. My statement that "V004 and V005 both show the same blue top with the torso covered" was wrong, it caused the midriff to be dropped from V006, and it is the reason V006 was rejected. It stays on the record here and in §0.
 
 **VR‑010 stays stopped.** No rejection report for it exists anywhere in Drive (rejected area holds three files; `search_files 'REJECTION'` returns one report). Correcting it now would mean inventing its defect list — the failure that produced V006.
+
+---
+
+## 10. VR-008 V008 — armlet corrected to a transfer (2026-11-17)
+
+**Errata first.** My V007 package stated that the approved character sheet carries no usable multi-coil armlet to transfer. **That was wrong.** The plate captioned "COILED BRONZE ARMLET" on `CHAR_ADANNA_MASTER_REFERENCE_V001` is mislabelled — it shows a rivetted strap and a spiral stud plate — but **the master portrait itself shows a clean multi-coil band** on Adanna's left upper arm (`x ≈ 590–800, y ≈ 1045–1120` of the 2560-wide sheet). I judged "no reference" from the detail plate without checking the portrait's own arm. Full errata: `B2_ERRATA_VR-008_V007_ARMLET.md`.
+
+| | |
+|---|---|
+| Candidate | `final/CAND_VR-008_V008_2560x1440.png` · 2560×1440 · 3,129,530 B · MD5 `a41548911b4d991e7e05aad6474441aa` · SHA-256 `cfc2788fa7c0762b86d76f24c6b7cebb214cf9cc4242b51c9a778365f4e3df4e` |
+| What changed | armlet only — painted five-coil band removed, replaced by a band transferred from the approved master portrait, levelled 7.6°, graded to the overcast light, scaled to this arm's width (74×29 px) |
+| Unchanged from V007 | fracture (1,504 px) and bare midriff (8,481 px) |
+| Pixel proof | V008 vs V005: **12,194** px changed, all inside the three masks, **0 outside**. V007→V008: **4,092** px, all inside the armlet mask, bbox `(998,545)–(1076,620)` |
+| Invariant regions | face+head, braids/cuffs/beads, right hand on the seal, bowl+pot, skirt+belt, right-side huts, left doorway+plaster: **0 px each** |
+| Status | **CANDIDATE — REVIEW REQUIRED.** Not approved, not canon, not filed, not a master. V007 remains in place; the reviewer decides which record stands |
+
+### Provenance correction carried from the report's §8 addendum
+
+- **V005** (`1VO2hsx_J3u-qD174V-5M-SWRJPtu8Gxu`): **handover branch only** — `20_PREVIOUS_VISUAL_AGENT_WORKSPACE_HANDOVER` (`17ZOOMRXHYWE1DKBYJUG9rdhjCrapFB1X`) → `THE_DISOBEDIENT_DAUGHTER_ART_BIBLE` → `15_EXPLORATORY_DESIGNS` → `Chapter_08_Character_Compositions`. **Not canonical**; not to be described as such, and not to be refiled without separate CD/TD authorisation. 627,020 B, MD5 `a94a084af0f7fb6d8016a6e33d44dc62` (re-verified before V008).
+- **V004 canonical copy** (`1WnpmzTUhiHxjepd_iasZHRoJsGbO64jg`): canonical `15_EXPLORATORY_DESIGNS` (`1S3KUeDS9nU6FBPFP3akG5YlJpVZvMdzM`) → `Chapter_08_Character_Compositions` (`1ywTZAOGDsIa7Ia713CT21IV2CyWUiVZO`), 653,046 B, MD5 `222329587e39160d9a95bea007ed08df`. Handover duplicate `16skVffhrXaNJ83Na0myt6bYdB6PEGSHQ` is byte-identical. My midriff donor was a derived panel crop of that file, not the file itself.
+
+### Rejected-area monitor (no correction started)
+
+`16_REJECTED_DESIGNS` now holds five files: the rejected V006 candidate, its updated report (18,150 B, MD5 `4218a8affddad882f86b5c95ba003466`, now including the §8 provenance addendum), `COMP_ADANNA_NNEKAS_YARD_FULL_FIGURE_V001.jpg`, and — **moved in from the submissions folder** — `B2_CAND_ESTABLISHING_V006` (`145yfHTW…`) and `B2_CAND_WALL_OF_HOUSES_V004` (`18ofv4cJ…`). Both retained their IDs and MD5s. **Neither has a rejection report**, so no correction has been started for either. The submissions folder is down from 23 to 21 files as a result of that move, not of anything I did.

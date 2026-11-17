@@ -49,3 +49,16 @@ Drive comment `doco.XsmeQpzu2gKiLvJ1tXnOzA` placed on the VR-008 candidate `1hIH
 **VR-010 → BLOCKED.** No rejection report exists; rejected area holds three files, one report only. Documented, not worked blind.
 
 **Neither candidate is approved.** Both return through the normal review cycle.
+
+
+---
+
+# CYCLE 3 (2026-11-17) — VR-008 V008; errata against my own V007 claim
+
+**Found an error in my own filing and fixed it rather than waiting to be caught.** The V007 package said the approved character sheet had no usable multi-coil armlet to transfer. Wrong: the *detail plate* labelled "COILED BRONZE ARMLET" is mislabelled, but the *master portrait* carries a clean multi-coil band at `x 590–800, y 1045–1120`. I had checked the plate and not the arm.
+
+- **V008** replaces V007's five painted coils with a **transfer** from that band (levelled 7.6°, graded 23.9→31.4, scaled to 74×29 px for this arm). Fracture and midriff untouched.
+- Verified on the **Drive copy**: 12,194 px changed vs V005, all inside the masks, 0 outside; V007→V008 = 4,092 px, armlet mask only.
+- V007 kept and not withdrawn; the reviewer decides which record stands.
+- Report §8 provenance now recorded: **V005 is handover-branch only, not canonical**; V004 canonical copy `1WnpmzTU…` MD5 `222329587…`.
+- **Establishing V006 and Wall of Houses V004 moved into the rejected area with no reports.** Corrections not started — no invented defect lists.
