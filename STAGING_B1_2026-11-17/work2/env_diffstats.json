@@ -1,0 +1,14 @@
+{
+ "EST": {
+  "total": 441432,
+  "inside_mask": 365251,
+  "outside": 0,
+  "red": 15592
+ },
+ "WALL": {
+  "total": 1234163,
+  "inside_mask": 1180944,
+  "outside": 0,
+  "red": 0
+ }
+}
