@@ -16,11 +16,11 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 | Item | Context | Status | Notes |
 |---|---|---|---|
 | Red earth (clay) for compound walls and surfaces | Compounds, pre-colonial and early colonial | SAFE | Equiano 1789 describes red-earth walls [EQU89; BAS21] |
-| Raffia and bast fibre | Weaving and cordage, pre-colonial | SAFE | Igbo-Ukwu *Ficus* bast and *Raphia* leaf fibres [SPR22] |
+| Raffia and bast fibre | Weaving, pre-colonial | QUALIFY | Two examined Igbo-Ukwu samples only: *Ficus* bast and *Raphia* leaf fibre [SPR22]. Wider use unverified |
 | Wood (carved, shrine, house posts) | Widespread | QUALIFY | Name the region; carving styles vary |
 | Iron (smithing, ogene bells) | Awka and smithing communities | SAFE | Lejja and Awka evidence [LEJ24; NEA79] |
 | Bronze / copper alloy | Igbo-Ukwu | SAFE with date caveat | Dating DISPUTED [SHA70] |
-| Silk | — | AVOID | Not confirmed in pre-colonial Igbo textiles [SPR22] |
+| Silk | — | AVOID | No silk reported in the two examined Igbo-Ukwu samples [SPR22]; no other evidence found |
 | Glass and imported beads | Colonial-era trade | QUALIFY | Trade-era material; do not present as pre-colonial |
 
 ---
@@ -29,11 +29,11 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 
 | Item | Context | Status | Notes |
 |---|---|---|---|
-| Narrow-strip woven cloth (bast/raffia/cotton) | Pre-colonial weaving | SAFE | Narrow-strip weaving (general; see A IV.1). [SPR22 for the Igbo-Ukwu fibres; weave structure to verify in full text] |
+| Narrow-strip woven cloth (bast/raffia/cotton) | Pre-colonial weaving | QUALIFY | Not established by the retrieved sources; see A IV.1 |
 | Indigo blue wrapper | Equiano account (both sexes) | QUALIFY | Authenticity of Equiano DISPUTED [EQU89; CAR05] |
 | Camwood red dyed cloth | Some communities | QUALIFY | Regional use |
 | Akwete cloth (figured patterned weave) | 19th-century Akwete tradition | QUALIFY | Not deep pre-colonial; regional [AKW] |
-| Ukara cloth (Cross River Igbo, Ekpe) | Late 19th century; restricted | CONSULT | Society-restricted [UKA (Tier 4 lead; VERIFY)] |
+| Ukara cloth (Cross River; Igbo attribution UNVERIFIED, Ekpe) | Late 19th century; restricted | CONSULT | Society-restricted [UKA (Tier 4 lead; VERIFY)] |
 | White cloth on sacred tree trunk | Devotional, some localities | CONSULT | Restricted; do not use as motif |
 | Black cloth covering a corpse | Titled men's funerary practice in one account | CONSULT | Burial-associated |
 | Grave-goods cloth (fathoms) | Titled funerary practice | CONSULT | Burial-associated |
@@ -97,7 +97,7 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 | Ikenga (personal carved object) | Achievement; ritually buried with owner | CONSULT | Restricted; grave-related |
 | Ozo staff and title regalia | Titled men | CONSULT | Restricted |
 | Nsibidi signs | Restricted system | CONSULT | Partly recorded [MAC09; DAY10; DAY11] |
-| Ukara (Ekpe) | Cross River Igbo, restricted | CONSULT | Society-restricted |
+| Ukara (Ekpe) | Cross River; Igbo attribution UNVERIFIED, restricted | CONSULT | Society-restricted |
 | Shrine figures (gods and supporters, Awka) | Shrine walls | CONSULT | Restricted |
 | Oyaya skull basket (Ohafia) | War dance | CONSULT | Restricted |
 | Iyi-uwa object | Ogbanje rites | CONSULT | Restricted |
@@ -111,8 +111,8 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 | Market-day cycle of four days | Widespread | SAFE | Eke, Orie, Afọ, Nkwọ |
 | Yam fields and farmland | Widespread | SAFE | General agriculture |
 | Sacred groves | Regional | QUALIFY | Sensitive; do not depict as shrine |
-| Sacred trees (iroko, oji, achi, udara) | Regional | CONSULT | White cloth is devotional |
-| Ogirishi tree (grave and boundary marker, reported) | Regional | CONSULT | Tree marker; grave-related; VERIFY [APAS; OHA19] |
+| Sacred trees with reported white cloth (Akpu, Udara) | Regional | CONSULT | Devotional; secondary report only [OKE22] |
+| Ogirishi tree (reported grave and boundary reference; unverified) | Regional | CONSULT | A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. [OKE22; OHA19] |
 | Shrine clearings | Regional | CONSULT | Restricted |
 | Rivers and water deities (Idemili) | Anambra / Onitsha area | CONSULT | Not researched in depth |
 | Erosion gullies and red-earth paths | Widespread | SAFE | Landscape reference |
@@ -150,9 +150,9 @@ THE DISOBEDIENT DAUGHTER · Pre-colonial Igbo-inspired visual language · Workin
 | Child death imagery | Various | CONSULT | Highly sensitive |
 | Grey cloth strips on poles | No documented equivalent | AVOID (as Igbo) | See Deliverable C |
 | Newer cloth strip as recent-death marker | No documented equivalent | AVOID (as Igbo) | See Deliverable C |
-| Asafo flags (Fante, Ghana) | Non-Igbo | AVOID (as Igbo) | Do not use or attribute |
-| Vodun cloth-wrapped trees (Ewe, Jeje, Brazil) | Non-Igbo | AVOID (as Igbo) | Do not use or attribute |
-| Bongo grave posts (Sudan) | Non-Igbo | AVOID (as Igbo) | Do not use or attribute |
+| Asafo flags (Cape Coast, Ghana) | Non-Igbo; scope per Aidoo (2011) | AVOID (as Igbo) | Do not use or attribute |
+| Vodun cloth-wrapped trees (Ewe, Jeje, Brazil) | Non-Igbo; UNVERIFIED | AVOID (as Igbo) | Do not use or attribute |
+| Bongo grave posts (Sudan) | Non-Igbo; UNVERIFIED | AVOID (as Igbo) | Do not use or attribute |
 
 ---
 

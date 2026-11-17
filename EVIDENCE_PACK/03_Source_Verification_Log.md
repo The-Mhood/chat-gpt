@@ -17,10 +17,23 @@ These four sources were checked and their details corrected.
 
 | Source | What was found | Correction made in `RESEARCH/` |
 |---|---|---|
-| **Springer 2022 textile study** | Title and journal confirmed: "Igbo-Ukwu Textiles: AMS Dating and Fiber Analysis," *African Archaeological Review* 39: 405–418. DOI 10.1007/s10437-022-09502-9. Authors: **Susan Keech McIntosh and Caroline R. Cartwright**. Abstract: bast fibres from one or more *Ficus* species and leaf fibres from *Raphia* sp.; one AMS date; the textiles do not date the Igbo Isaiah objects. | Author corrected (was "Springer"). Fibre identification corrected from "plant origin unidentified" to *Ficus* and *Raphia*. Plain-weave and British Museum accession details flagged for full-text check. |
+| **McIntosh & Cartwright 2022 textile study** (labelled 'Springer' in earlier notes; that label was wrong) | Title and journal confirmed: "Igbo-Ukwu Textiles: AMS Dating and Fiber Analysis," *African Archaeological Review* 39: 405–418. DOI 10.1007/s10437-022-09502-9. Authors: **Susan Keech McIntosh and Caroline R. Cartwright**. Abstract: bast fibres from one or more *Ficus* species and leaf fibres from *Raphia* sp.; one AMS date; the textiles do not date the Igbo Isaiah objects. | Author corrected (was "Springer"). Fibre identification corrected from "plant origin unidentified" to *Ficus* and *Raphia*. Plain-weave and British Museum accession details flagged for full-text check. |
 | **Igirigi 2025 article** | Title: "Traditional Burial and Funeral Rituals in Umumba-Ndiagu: A Controversy between Tradition and Christianity," by **Chinweze Chinedu Evaristus**, *IGIRIGI: A Multi-Disciplinary Journal of African Studies* Vol. 5 No. 3 (2025). The Obimo two-chamber passage is attributed in the text to **Ugwuoke (1998)**. The same passage appears in a 2021 BJMCMR article and in an Etefia article, which cites **Onu & Etefia (2019)**. | Author and title added. Obimo detail re-labelled as one lineage of reporting, not independent corroboration. "First son indicates grave site" and "twelve fathoms" flagged as not confirmed in the retrieved text. |
 | **Macgregor 1909** | Confirmed: "Some Notes on Nsibidi," *Journal of the Royal Anthropological Institute* 39: 209–219 (via secondary citations). Enyong ikpe (court record) described in nsibidi. Secondary sources attribute the script to the Ejagham (Cross River). | Title corrected. Igbo origin legend claim flagged as unconfirmed. Cross River weighting added. |
 | **APAS / Ochendo (OAAJIS_3_1_7 and OAAJIS_1_1_8)** | OAAJIS_3_1_7: white cloth on trunks of some sacred trees in Igbo localities (udara, citing Adibe 2008); Ogirishi tree statements citing Oha (2019). OAAJIS_1_1_8: white cloth on sacred trees in Yoruba context (non-Igbo). The retrieved text does **not** name iroko or achi for the Igbo practice. | Iroko and achi removed from the Igbo claim. Ogirishi tree added (see `02`, C-09). Yoruba comparison added as non-Igbo. |
+
+## 1b. Correction pass v1.1 (second pass, same date)
+
+This section supersedes section 1 where they differ.
+
+| Source | What was found in full text or record | Correction |
+|---|---|---|
+| **Okeke (2022), Ochendo 3(1)** (OKE22) | Title: 'The Human Person, Trees and Spirituality in Igbo Cosmology.' Author: Ifeanyi J. Okeke. The Ogirishi grave and boundary sentence has **no source** in the article. The knife statement cites Oha (2019). White-cloth statements name **Akpu** (*Ceiba pentandra*) and **Udara** (*Chrysophyllum albidum*), both attributed to Adibe (2008). Iroko, Oji, Achi, Ngwu, Uha, Ube, Aboshi and Ofo are described with no cloth statement. | Ogirishi attribution corrected (section 1 said Oha 2019 for the grave and boundary statements). Akpu added as a second named species. Iroko and Achi removed from the white-cloth claim. |
+| **Oha (2019)** (OHA19) | Listed in the article's references as a blog: 'Some Sacred Trees in Igbo Culture' (oha.blogspot.com). | Tier corrected from T2 to **Tier 4**. |
+| **Adibe (2008)** (ADI08) | Book, *Igbo Mysticism* (Mid-Field Publishers). Cited for the Akpu and Udara white-cloth statements. | Added. Not retrieved. The source of the white-cloth claim is therefore unchecked. |
+| **Aidoo (2011)** (AID11) | KNUST MA thesis, 'Documentation of the Fante Asafo flags since the year 2000 and their socio-cultural significance.' Repository record and abstract: Cape Coast flags; residents recognise but often cannot interpret them; no written documentation at visited posts; documentation recommended. | Added. Pole mounting and funerary use are **not** established by the retrieved record. |
+| **Iroko** (cross-source) | No white-cloth statement for iroko in OKE22. OKE22 links iroko to reincarnation and iyi-uwa burial (restricted). Yoruba iroko appears in the APAS-YOR snippet. | White-cloth-on-iroko claims removed from the Igbo material. Sensitivity recorded as C-47. |
+| **Ogirishi** (cross-source) | A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. | Status UNVERIFIED throughout. |
 
 ## 2. Search record
 
@@ -33,7 +46,8 @@ Queries are approximate. The exact count was not logged, so the research package
 | 12 (earlier) | Ikenga; Ekumeku; nsibidi documentation; Igbo-Ukwu textiles; Ohafia | 5 |
 | 13 (earlier, this session) | Widowhood; market week; music; memorial posts; dibia | 5 |
 | 14 (this pass) | Springer/McIntosh 2022; Igirigi 2025; Macgregor 1909; sacred tree white cloth | 4 |
-| **Total** | | **approx. 59** |
+| 15 (correction pass v1.1) | Okeke (2022) full text; KNUST Aidoo thesis record | 1 search; 8 page fetches (6 OKE22 chunks retrieved; 2 KNUST fetches failed) |
+| **Total** | | **approx. 60** |
 
 ## 3. Source-by-source log
 
@@ -49,8 +63,11 @@ Queries are approximate. The exact count was not logged, so the research package
 | MAC09 | Macgregor (1909), "Some Notes on Nsibidi," *JRAI* 39: 209–219 | T1 | RETRIEVED (secondary citations and ikpe description) | — | Original; Igbo origin legend claim (unconfirmed) |
 | DAY10 | Dayrell (1910), *Man* 10: 113–114 | T1 | NOT RETRIEVED | — | Original and page check |
 | DAY11 | Dayrell (1911), *JRAI* 41: 521–540 | T1 | NOT RETRIEVED | — | Original and page check |
-| OHA19 | Oha (2019), on Ogirishi and other trees | T2 (reported) | SECONDARY (via APAS) | — | Obtain original; locality |
-| APAS | Ochendo: An African Journal of Innovative Studies, OAAJIS_3_1_7 and OAAJIS_1_1_8 | T2/T4 | RETRIEVED (snippets) | apas.africa/journal/OAAJIS_3_1_7.pdf; OAAJIS_1_1_8.pdf | Authors and page numbers; the full text of both articles |
+| OHA19 | Oha, O. (2019), "Some Sacred Trees in Igbo Culture," blog (oha.blogspot.com) | **Tier 4 (blog)**, corrected from T2 | SECONDARY (cited in OKE22's reference list) | oha.blogspot.com | Original blog post; locality; not usable as an established source |
+| OKE22 | Okeke, I.J. (2022), "The Human Person, Trees and Spirituality in Igbo Cosmology," *Ochendo* 3(1) | T2/T4 | RETRIEVED (full text, 6 chunks, correction pass) | apas.africa/journal/OAAJIS_3_1_7.pdf | Page numbers; journal peer-review status; check the Akpu and Udara statements against ADI08 |
+| APAS-YOR | Ochendo, OAAJIS_1_1_8 (Yoruba white-cloth trees) | T2/T4 | SNIPPET (search result) | apas.africa/journal/OAAJIS_1_1_8.pdf | Title, authors, pages; full text |
+| ADI08 | Adibe, G.E. (2008), *Igbo Mysticism: Power of Igbo Traditional Religion and Society*, Onitsha: Mid-Field Publishers | Unassessed | NOT RETRIEVED (cited via OKE22) | — | Source of the Akpu and Udara white-cloth statements. Locate and check |
+| AID11 | Aidoo, E.K. (2011), MA thesis, KNUST | T2 (unpublished) | RETRIEVED (repository record and abstract snippet; full PDF not read) | ir.knust.edu.gh/items/5e02ebff-73d3-4338-98b5-e9cd5e5bee75 | Full PDF: confirm whether pole mounting is described; record of 18th-century use (reported only by a secondary article) |
 | AFI86 | Afigbo (1986), on ikenga | T2 (reported) | SECONDARY (via JCRT24) | — | Obtain original |
 | JCRT24 | JCRT (2024), article on ikenga | T2 lead | NOT RETRIEVED | — | Full citation |
 | SMA | Smarthistory, ikenga entry | T3-type (educational) | SNIPPET (earlier) | smarthistory.org | Summary only; do not cite for detail |
@@ -121,6 +138,6 @@ Queries are approximate. The exact count was not logged, so the research package
 - No primary Igbo-community source on pole-and-cloth practice was located.
 - Nsukka-region archaeology and ethnography: not reviewed in depth.
 - Idemili and other river deities: not reviewed in depth.
-- Comparative pole-flag traditions (asafo, Bongo posts): no scholarly source in the package. (See `06`.)
+- Comparative traditions: asafo (Cape Coast) has one MA thesis (AID11), scope limited. Bongo posts and vodun cloth-trees have no scholarly source in the package. (See `06` and `07`.) Former text, superseded: comparative pole-flag traditions (asafo, Bongo posts): no scholarly source in the package. (See `06`.)
 - Child burial treatment in Igbo communities: not located.
 - Most Tier 2 anchor works (Basden, Uchendu, Metuh, Cole, Onwuejeogwu, Henderson, Amadiume, Ottenberg) are recorded in the package from prior knowledge and have not been retrieved in this session.

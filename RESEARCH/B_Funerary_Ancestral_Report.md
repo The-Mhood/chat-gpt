@@ -74,7 +74,7 @@ Several communities distinguished:
 - Black cloth covering the corpse is cited in the same account. **REGIONALLY SPECIFIC.**
 
 ### B.3.2 Cloth in the grave (archaeology)
-- Textiles preserved at Igbo-Ukwu were found in association with bronzes. They are bast fibres from *Ficus* (fig) species and leaf fibres from *Raphia* palm (McIntosh & Cartwright 2022). **No silk.** **DOCUMENTED** [SPR22].
+- Two British Museum fabric samples from Igbo-Ukwu, examined by McIntosh & Cartwright (2022), were identified as bast fibres from *Ficus* (fig) species combined with leaf fibres from *Raphia* palm. The findings concern these two samples only and must not be generalised to every Igbo textile tradition. No silk was reported in them. **DOCUMENTED for these two samples.** [SPR22]
 
 ### B.3.3 Personal objects buried with the dead
 - **Ikenga:** the carved personal object was ritually broken and buried with its owner; it was not inherited. Achebe is cited for the idea that breaking another person's ikenga was a grave offence. **REGIONALLY SPECIFIC.** [AFI86 (via JCRT 2024); SMA (Smarthistory); ACH58 — literary only].
@@ -90,7 +90,7 @@ Cloth as funerary goods is real and documented, but it is **interred** with the 
 
 ## B.4 Ancestors and remembrance
 
-- **Ogirishi tree:** see the tree entry in B.7.2 (Oha 2019, via Ochendo). REGIONALLY SPECIFIC; VERIFY.
+- **Ogirishi tree:** A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. See B.7.2. UNVERIFIED.
 - Ancestor shrines and halls (obu/obi/ovu/obiri), libations, naming, and second burial are the main mechanisms. **REGIONALLY SPECIFIC** [OZI25 — Tier 4; BAS21].
 - Mbari houses honour Ala and the ancestral world in Owerri-area communities. Their figure-filled walls and ritual content are **restricted**. [COL82 — Tier 2]
 - Shrine sculptures in Awka-area shrines show gods and supporters against walls "often hung with cult apparatus" [COA84 p.89]. The apparatus is not described as strips on poles.
@@ -122,7 +122,7 @@ Treat the following as **restricted** unless a qualified custodian advises other
 
 | Region / community | Documented funerary feature | Evidence label |
 |---|---|---|
-| Igbo-Ukwu (Anambra) | Elaborate chamber burial with bronzes and textiles | DOCUMENTED (dating DISPUTED) |
+| Igbo-Ukwu (Anambra) | Elaborate chamber burial with bronzes; two textile samples only (not generalisable) | DOCUMENTED (dating DISPUTED) |
 | Awka area | Shrine walls with cult apparatus; itinerant smiths | DOCUMENTED / REGIONALLY SPECIFIC |
 | Nri | Titled and ritual burial; sacred king's role | REGIONALLY SPECIFIC; DISPUTED in identity |
 | Obimo, Nsukka area (Ugwuoke 1998, as reported) | Two-chamber grave for an Ozo man | REGIONALLY SPECIFIC (VERIFY) |
@@ -147,34 +147,34 @@ Does the documented record show hanging cloth strips from individual poles, post
 | Candidate practice | Found? | Evidence and notes | Label |
 |---|---|---|---|
 | Cloth strips hung from individual free-standing poles in a field | **No** | No source reviewed (55–60 searches, count approximate across searches and fetched pages) describes this | NOT FOUND — not evidence of absence |
-| Cloth on a single sacred tree trunk | **Yes** | White cloth on iroko, achi, oji, udara trunks in some localities; devotional, singular, not funerary | REGIONALLY SPECIFIC [APAS — VERIFY] |
+| Cloth on a sacred tree trunk | **Reported (secondary only)** | White cloth on the trunk of some sacred trees in some Igbo localities. The retrieved article names Akpu (silk cotton) and Udara. Iroko, Oji and Achi are not described with cloth in the retrieved text | REGIONALLY SPECIFIC; devotional, not funerary; source chain OKE22 → ADI08 (unverified) |
 | Cloth covering a corpse | **Yes** | Black cloth covering corpse in one community's account | REGIONALLY SPECIFIC [IGI25] |
 | Cloth as grave goods | **Yes** | Measured in fathoms; more for titled men | REGIONALLY SPECIFIC [IGI25] |
-| Cloth hung on shrine walls | **Yes** | Awka-area shrine walls "hung with cult apparatus" (not specified as cloth strips) | REGIONALLY SPECIFIC [COA84 p.89] |
-| Ukara cloth hung in Ekpe meeting houses | **Yes (Cross River Igbo)** | Late 19th century; used in society meeting houses; restricted | REGIONALLY SPECIFIC; source tier 4 lead, VERIFY |
+| Cloth hung on shrine walls | **Not specified** | Awka-area shrine walls "hung with cult apparatus"; the source does not name cloth | REGIONALLY SPECIFIC [COA84 p.89] |
+| Ukara cloth hung in Ekpe meeting houses | **Yes (Cross River; Igbo attribution UNVERIFIED)** | Late 19th century; used in society meeting houses; restricted | REGIONALLY SPECIFIC; source tier 4 lead, VERIFY |
 | Poles and posts as memorial markers | **Partly** | Ancestral figures and house posts; Nsude pyramids (no cloth) | REGIONALLY SPECIFIC; no cloth |
-| Tree as grave or boundary marker | Yes (tree, not cloth) | Ogirishi tree reported to mark grave headsides and boundaries, and bachelors' graves (Oha 2019, via Ochendo) | REGIONALLY SPECIFIC; VERIFY |
+| Tree as grave or boundary marker | **Single secondary source; UNVERIFIED** | A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. A blog (Oha 2019, Tier 4) is cited for a bachelors' grave statement | Not an established grave marker. VERIFY before any use |
 | Cloth on fresh graves as a marker | **Not found** | No source reviewed | NOT FOUND |
 | Newer cloth as sign of a recent death | **Not found** | No source reviewed | NOT FOUND — consult |
 
 ### B.7.3 Comparable practices in other African traditions (NOT Igbo)
-These are documented elsewhere and **must not be attributed to Igbo culture**:
-- **Fante asafo flags (Ghana):** cloth flags on poles associated with military companies. Documented in Ghanaian ethnography. **Not Igbo.**
-- **Yoruba:** white cloth tied around the trunks of large trees marking abodes of deities or sacrifice spots (Ochendo/APAS, OAAJIS_1_1_8; Yoruba context). **Not Igbo.** The same white-cloth tree form is also documented in Igbo localities, so a viewer may not distinguish them.
-- **Ewe, Jeje and Brazilian vodun:** cloth-wrapped iroko trees as sacred sites. **Not Igbo.**
-- **Bongo grave posts (Sudan):** funerary posts. **Not Igbo.**
+These are reported elsewhere (scope varies by item; see each bullet) and **must not be attributed to Igbo culture**:
+- **Fante (Cape Coast) asafo flags, Ghana:** documented as company flags in Aidoo (2011), an MA thesis (KNUST) on Cape Coast flags since 2000. Its scope is flag documentation and significance. The retrieved record does not establish pole mounting or any funerary use. **Not Igbo; scope limited to Cape Coast.** [AID11]
+- **Yoruba:** white cloth tied around large sacred trees to mark them as abodes of deities or sacrifice spots (APAS-YOR, OAAJIS_1_1_8, retrieved as a search snippet; Yoruba (region not stated in the snippet)). **Not Igbo.** Reported Igbo cases (B.7.2) are separate, also secondary, and must not be read as the same practice.
+- **Ewe, Jeje and Brazilian vodun:** cloth-wrapped trees, reported in this package only in a Tier 4 Brazilian text. **UNVERIFIED. Not Igbo.** Keep unverified until scholarly sources are obtained.
+- **Bongo grave posts (Sudan):** no source in this package. **UNVERIFIED. Not Igbo.**
 
 **Risk:** a viewer familiar with asafo flags or vodun trees may read a pole-and-cloth field as a different West African tradition. This misattribution risk is **Medium–High** if the game is marketed as Igbo-inspired.
 
 ### B.7.4 Analysis
-- **The sacred-tree white cloth is the closest documented Igbo cloth-on-structure devotional practice.** It differs in form (one tree, one cloth wrapped around the trunk), meaning (devotional/shrine, not burial), and social location (community or lineage shrine).
+- **The sacred-tree white cloth is the closest reported Igbo cloth-on-structure devotional practice (secondary source only).** It differs in form (one tree, one cloth wrapped around the trunk), meaning (devotional/shrine, not burial), and social location (community or lineage shrine).
 - **The grave-goods and corpse-covering practices are the closest documented cloth-and-death practices.** They differ in form (cloth buried with or over the body, not on poles above the field) and place (within the compound or grave).
 - **The Field of Cloth arrangement combines** a sacred-tree-like form (cloth on a single vertical structure), a grave-goods-like material (grey cloth), and a funerary atmosphere, in a repeated field of structures that no documented Igbo practice matches.
 - This combination is **FICTIONAL** as a whole. Individual elements have **REGIONALLY SPECIFIC** Igbo references (see Deliverable C).
 
 ### B.7.5 Overall funerary finding for pole-and-cloth imagery
 - **Not documented** as a pre-colonial Igbo funerary practice.
-- **Documented** elements exist (sacred-tree cloth; grave-goods cloth; shrine-wall cloth), but they do not establish the pole-field form.
+- **Reported** elements exist (sacred-tree cloth, secondary source only; grave-goods cloth, one community's account; shrine-wall cult apparatus, with cloth not specified), but they do not establish the pole-field form.
 - Using the pole-field as a representation of Igbo death would be a **misleading cultural claim**.
 
 ---

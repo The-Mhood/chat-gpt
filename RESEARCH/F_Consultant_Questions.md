@@ -14,7 +14,7 @@ THE DISOBEDIENT DAUGHTER · Field of Cloth (CH07-SUB-005) and related imagery ·
 1. In your community, are strips of cloth ever hung from upright poles or posts? If yes: where (compound entrance, shrine, grave, farm, junction, boundary), in what number, and at what time?
 2. If a pole or post is used with cloth in your community, who is allowed to see it, touch it, or change it?
 3. Are there any poles with cloth that mark a grave, a boundary between the living and the dead, or a place where the dead are believed to pass? If yes, what is the name of the object, and who is responsible for it?
-4. If a single tree has white cloth wrapped around its trunk in your area, what is that tree's role? Is it restricted, and may outsiders describe or depict it?
+4. If a single tree has white cloth wrapped around its trunk in your area, what is that tree's name and role? Is it restricted, and may outsiders describe or depict it?
 5. Are there any locations in your community where many cloths are displayed together outdoors? If so, what is their purpose?
 6. Is a field of many poles with grey cloth strips something your community would recognise, or something it would find unfamiliar or disturbing?
 
@@ -86,7 +86,7 @@ THE DISOBEDIENT DAUGHTER · Field of Cloth (CH07-SUB-005) and related imagery ·
 
 ## Section 11 — Added after evidence verification (2026-11-17)
 
-44. Is a tree used to mark a grave, the head of a grave, or a boundary in your community? One secondary report describes the Ogirishi tree as marking grave headsides and boundaries, and the graves of unmarried men. Is this recognised locally, and is any part of it restricted?
+44. Is a tree used to mark a grave, the head of a grave, or a boundary in your community? A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. Is this recognised locally, and is any part of it restricted?
 45. Is the two-chamber grave reported for Obimo (Nsukka area) recognised in your community or in neighbouring communities? If so, what are the chambers used for?
 46. Is the practice reported in one 2025 account, of leaving the corpse of an unmarried man or a child in the evil forest, recognised in your community? Discuss only if your community considers it appropriate to discuss.
 

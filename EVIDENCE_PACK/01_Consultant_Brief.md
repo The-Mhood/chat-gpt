@@ -30,11 +30,11 @@ Each statement has a source code. Full details are in `02_Evidence_Claims_Regist
 - **No documented pre-colonial Igbo practice** was found in which cloth strips hang individually from free-standing poles as a funerary, mourning or memorial marker. The search covered about 55–60 queries and cannot prove absence. [C-01]
 - **Cloth in Igbo funerary contexts** is reported as grave goods and corpse covering in at least one community account: black cloth covers the body of a titled (Ozo) man, and cloth is measured in fathoms. This comes from a single 2025 article that reproduces a passage found in earlier work. It has not yet been confirmed against the original 1998 study. [C-02, C-03, C-05]
 - **Two-chamber grave at Obimo** (Nsukka area) is reported in the same lineage of sources. [C-04]
-- **White cloth on the trunks of some sacred trees** is reported in some Igbo localities. It is devotional, not funerary. [C-08]
-- **A tree (Ogirishi) reported as marking grave headsides and boundaries** is reported in one secondary account. Its locality is not stated. [C-09]
-- **White cloth on Awka-area shrine walls** with cult apparatus is reported in a standard art-historical survey. [C-11]
-- **Pole-and-cloth arrangements** are associated with other West African traditions (for example Fante asafo flags in Ghana, and cloth-wrapped trees in Yoruba and vodun contexts). These are not Igbo, and the research makes no claim about them beyond noting them. [C-10, C-30 to C-32]
-- **Igbo-Ukwu textiles** are identified as bast fibre from fig (*Ficus*) species and leaf fibre from *Raphia* palm. No silk was reported. [C-12]
+- **White cloth on the trunks of some sacred trees** is reported in some Igbo localities, in one secondary article. The retrieved passage names Akpu (silk cotton) and Udara. The practice is devotional, not funerary. The article's source is a 2008 book that has not been checked. [C-08]
+- A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. This is not an established grave marker. [C-09]
+- **Cult apparatus on Awka-area shrine walls** is reported in a standard art-historical survey; the source does not name cloth. [C-11]
+- **Comparative traditions** are not established as Igbo and are not used to support any Igbo claim. Cape Coast (Fante) asafo flags are documented in one MA thesis, whose scope is flag documentation rather than funerary use [C-30]. A Yoruba practice of white cloth on sacred trees is reported in a search snippet [C-10]. Vodun and Bongo comparisons are unverified [C-31, C-32].
+- **Igbo-Ukwu textiles:** two British Museum samples were examined. They are identified as bast fibre from fig (*Ficus*) species and leaf fibre from *Raphia* palm. No silk was reported in them. These findings concern the two samples only and do not describe Igbo textiles generally. [C-12]
 
 Several sources are reported through other people's work or through search snippets. Those are flagged. Please treat the summary above as a set of leads to check, not as settled fact.
 
@@ -42,13 +42,14 @@ Several sources are reported through other people's work or through search snipp
 
 The full question list is in `05_Consultant_Response_Sheet.csv` (questions 1 to 46). The most important are:
 
-1. Whether cloth strips are ever hung from upright poles or posts in your community, and where. (Q1–Q3)
+1. Whether cloth strips are ever hung from upright poles or posts in your community, and where. (Q1–Q6)
 2. What cloth is used to cover a corpse or is placed with the dead in your community, and whether colour or quantity varies by status. (Q7–Q10)
 3. Whether a fresh cloth on or near a grave has any meaning in your community, and whether a newer strip in a scene would be read as a real death. (Q11–Q13)
 4. Whether a fictional land of the dead is acceptable to depict in a game, and which features, if any, must never be shown. (Q14–Q18)
 5. Which practices are restricted or sensitive, and who may describe or depict them. (Q19–Q25)
 6. Which sensitive subjects (bad death, twins, children, widowhood) need extra care. (Q26–Q30)
 7. Which community or communities your knowledge covers, and where your answers do not apply to others. (Q31–Q35)
+8. Whether three reported practices in the package are recognised in your community: a tree that marks grave headsides or boundaries, a two-chamber grave at Obimo, and leaving the corpse of an unmarried man or a child in the evil forest. Each is reported in a secondary source only. (Q44–Q46)
 
 You may decline any question. Please say so in the response sheet rather than guessing.
 

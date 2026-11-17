@@ -1,6 +1,6 @@
 # Consultant Evidence Pack — THE DISOBEDIENT DAUGHTER
 Subject: Cultural-consultant review of `ENV_GATES_DEAD_FIELD_OF_CLOTH_V001` (register CH07-SUB-005, PROPOSED; decision register D9 — PENDING CONSULTANT REVIEW)
-Prepared: 2026-11-17 · Status: DRAFT for consultant use, pending verification items listed in `03` and `06`
+Prepared: 2026-11-17 · Version: v1.1 (correction pass; see `07_Correction_Manifest_v1.1.md`) · Status: DRAFT. Not for consultant distribution until the Technical Director approves this version.
 
 ---
 
@@ -24,7 +24,8 @@ A set of documents that lets a qualified Igbo cultural consultant see the eviden
 | `03_Source_Verification_Log.md` | Every source code, its provenance, what was checked this session and what remains unverified | Research team; consultant on request |
 | `04_Board_Element_Evidence_Map.md` | Each element of the review board mapped to evidence and open questions. Neutral; no design calls | Consultant, CD |
 | `05_Consultant_Response_Sheet.csv` | The 46 questions with blank answer, restriction, consent and recording columns | Consultant (fill in) |
-| `06_Corrections_and_Open_Issues.md` | Corrections made to the research package on 2026-11-17, and known weaknesses | Research team, CD |
+| `06_Corrections_and_Open_Issues.md` | Corrections made to the research package on 2026-11-17 (v1.0) and known weaknesses | Research team, CD |
+| `07_Correction_Manifest_v1.1.md` | v1.1 correction manifest: what changed, why, the evidence, and what was deliberately left unchanged | Research team, TD |
 
 **Source package:** `RESEARCH/` — A (dossier), B (funerary report), C (Field of Cloth assessment), D (visual reference guide), E (risk register), F (consultant questions), G (bibliography), `00_README.md`.
 

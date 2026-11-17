@@ -12,13 +12,13 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | Field | Description |
 |---|---|
 | Cultural element | Single grey cloth strip hanging from each of many poles, in a field, as a funerary-looking landscape |
-| Historical evidence | No documented pre-colonial Igbo funerary, mourning or memorial practice of this form found in 55–60 searches, count approximate. Adjacent: cloth grave goods and corpse covering (REGIONALLY SPECIFIC) [IGI25]; white cloth on sacred tree (REGIONALLY SPECIFIC) [APAS — VERIFY] |
+| Historical evidence | No documented pre-colonial Igbo funerary, mourning or memorial practice of this form found in 55–60 searches, count approximate. Adjacent: cloth grave goods and corpse covering (REGIONALLY SPECIFIC) [IGI25]; white cloth on some sacred trees (secondary source only) [OKE22] |
 | Geographic scope | Not identified. Adjacent practices are community-specific (e.g., one titled-funerary account; various sacred-tree localities) |
 | Risk | **High** |
 | Potential misrepresentation | Reads as an Igbo burial-cloth marker; implies a universal Igbo funerary custom; resembles West African pole-flag (asafo) or vodun cloth traditions and may be misattributed |
 | Recommendation | **Avoid** (as Igbo); **Consult** before any reuse of burial-cloth form |
 | Confidence | High (no equivalent found); Medium (risk of misattribution) |
-| Sources | BAS21; BAS66 (via BJM25); IGI25; APAS; COA84; SMA; search record (B.7) |
+| Sources | BAS21; BAS66 (via BJM25); IGI25; OKE22; COA84; SMA; search record (B.7) |
 
 ### R-02 — Newer foreground cloth strip as recent-death signal (E6)
 
@@ -90,7 +90,7 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | Field | Description |
 |---|---|
 | Cultural element | Cloth interred with the dead, measured in fathoms; black cloth covering the corpse |
-| Historical evidence | Documented in one community's funerary account; quantities by status [IGI25 — VERIFY]; Igbo-Ukwu textiles with bronze [SPR22] |
+| Historical evidence | Documented in one community's funerary account; quantities by status [IGI25 — VERIFY]; two Igbo-Ukwu textile samples found with bronzes (two samples only; not generalisable) [SPR22] |
 | Geographic scope | REGIONALLY SPECIFIC |
 | Risk | **Restricted** (funerary, status-linked, community-specific) |
 | Potential misrepresentation | Generalising one community's grave goods to all Igbo |
@@ -102,14 +102,14 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 
 | Field | Description |
 |---|---|
-| Cultural element | White cloth wrapped around a sacred tree trunk (iroko, oji, achi, udara) |
-| Historical evidence | Documented as devotional in some localities [APAS — VERIFY]; not funerary |
+| Cultural element | White cloth wrapped around the trunk of some sacred trees (reported: Akpu, Udara) |
+| Historical evidence | Reported as devotional in some localities in one secondary article (Okeke 2022, citing Adibe 2008). Not funerary. Primary sources unverified |
 | Geographic scope | REGIONALLY SPECIFIC |
 | Risk | **Restricted** |
 | Potential misrepresentation | Field of cloth read as a version of this sacred practice; sacred practice depicted without authority |
 | Recommendation | **Avoid** as visual source; **Consult** |
 | Confidence | Medium |
-| Sources | APAS; search record |
+| Sources | OKE22 (citing ADI08); search record |
 
 ### R-09 — Ikenga ritually broken and buried with owner
 
@@ -207,7 +207,7 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | Field | Description |
 |---|---|
 | Cultural element | Silk cloth in pre-colonial Igbo context |
-| Historical evidence | Not confirmed; Igbo-Ukwu fibres are *Ficus* bast and *Raphia* leaf fibre [SPR22] |
+| Historical evidence | Not confirmed. The two examined Igbo-Ukwu samples are *Ficus* bast and *Raphia* leaf fibre, with no silk reported [SPR22] |
 | Geographic scope | — |
 | Risk | **Medium** (factual error) |
 | Potential misrepresentation | False material claim |
@@ -285,13 +285,13 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | Field | Description |
 |---|---|
 | Cultural element | Pole-flag and cloth-tree traditions of other West and North African peoples |
-| Historical evidence | Documented in their own regional ethnographies (not Igbo) |
-| Geographic scope | Ghana (Fante); Ewe, Jeje, Brazil (vodun); Sudan (Bongo) |
+| Historical evidence | Asafo: Aidoo (2011), MA thesis, Cape Coast scope. Vodun and Bongo: UNVERIFIED in this package. None establishes an Igbo link |
+| Geographic scope | Ghana (Cape Coast Fante, asafo); Ewe, Jeje, Brazil (vodun, unverified); Sudan (Bongo, unverified) |
 | Risk | **High** (misattribution) |
 | Potential misrepresentation | Using another culture's sacred or funerary form inside an Igbo-inspired game |
 | Recommendation | **Avoid**; do not attribute to Igbo |
 | Confidence | High (that they are non-Igbo); Medium (on viewer recognition) |
-| Sources | Regional ethnography (not in this package's verified list — flagged for addition) |
+| Sources | AID11 (asafo, Cape Coast); vodun and Bongo: no scholarly source in package |
 
 ### R-23 — Agwu / dibia and divination
 
@@ -338,14 +338,14 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 
 | Field | Description |
 |---|---|
-| Cultural element | Ogirishi tree reported to mark grave headsides, land boundaries, and the graves of unmarried men |
-| Historical evidence | Oha (2019), as reported in Ochendo (APAS). Secondary; locality not stated in retrieved text [APAS; OHA19] |
+| Cultural element | A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified.
+| Historical evidence | A secondary source (Okeke 2022, Ochendo) reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. The article gives no source for that statement. The bachelors' knife statement cites Oha (2019), a Tier 4 blog. Locality not stated |
 | Geographic scope | Regional (locality unconfirmed) |
 | Risk | **Medium** |
 | Potential misrepresentation | Presents one tree-based grave custom as a general Igbo grave marker; a boundary-tree reading may combine with the field's boundary atmosphere |
 | Recommendation | **Consult**; verify before any reference |
 | Confidence | Low (single secondary source) |
-| Sources | APAS; OHA19 |
+| Sources | OKE22; OHA19 (Tier 4 blog) |
 
 ---
 
@@ -356,7 +356,7 @@ THE DISOBEDIENT DAUGHTER · Working date 2026-11-17
 | High | R-01, R-02, R-04, R-15, R-21, R-22, R-25 (7) |
 | Restricted | R-07, R-08, R-09, R-10, R-11, R-12, R-14 (7) |
 | Medium | R-03 (as element), R-13, R-16, R-18, R-20, R-23, R-26 (7) |
-| Low–Medium | R-06, R-17, R-19 (3) |
-| Low | R-05, R-24 (2) |
+| Low–Medium | R-17, R-19 (2) |
+| Low | R-05, R-06, R-24 (3) |
 
 Total: 26 entries. Each is counted once, at its primary rating.

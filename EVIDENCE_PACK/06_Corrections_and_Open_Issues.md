@@ -15,7 +15,7 @@ Each correction was made after the verification pass in `03`.
 | 7 | A, B | "Igbo Richard chamber about 8 m deep" presented as fact | Flagged; the depth appears only in a Tier 4 summary | Tier 4 only |
 | 8 | A, G | MAC09 described as recording an Igbo origin legend; title "Nsibidi: The Ideographic Script..." | Title "Some Notes on Nsibidi"; Igbo legend claim flagged as unconfirmed | Title retrieved; legend not retrieved |
 | 9 | A, E | Nsibidi presented as used in "parts of Igbo-speaking areas" with Ekoi origin "also claimed" | Primarily Cross River (Ejagham/Ekoi, Efik-Ibibio, Ekpe); Igbo presence less documented | Secondary descriptions attribute the script to the Ejagham |
-| 10 | B, D, G | APAS sacred-tree cloth attributed to "iroko, achi, udara" | Udara confirmed; iroko and achi not confirmed in retrieved text | Snippet does not name them |
+| 10 | B, D, G | Sacred-tree white cloth attributed to "iroko, achi, udara" (APAS) | Full text retrieved (OKE22). It names **Akpu** and **Udara** with white cloth. **Iroko, Oji and Achi have no cloth statement** in the retrieved text. Source chain runs to ADI08, which is not retrieved | Full text retrieved; ADI08 unchecked |
 | 11 | A, B, C, D, E | "~50 queries" | "55–60 searches (count approximate)" | Exact count was not logged |
 | 12 | A, B, C, E, G | Asafo and vodun comparisons without citation | Still uncited; flagged as gap (see B.1 below) | Correction is to flag, not to invent a source |
 | 13 | A, B, C, E, G | Several Tier 2 works presented with full citations | Provenance note added to G: entries not retrieved are marked | Prior-knowledge citations must be verified |
@@ -31,9 +31,9 @@ Each correction was made after the verification pass in `03`.
 ## B. Open issues the consultant should know about
 
 ### B.1 Claims with no citation in the package
-- **Asafo flags (Fante, Ghana):** pole-and-cloth tradition. Stated from general knowledge. Needs a scholarly citation before external use.
+- **Asafo flags (Cape Coast, Ghana):** one MA thesis (AID11) now supports the existence and documentation of Cape Coast flags. Pole mounting and funerary use are not established by it. (Updated in v1.1.)
 - **Bongo grave posts (Sudan):** stated from general knowledge. Needs a citation.
-- **Vodun and Yoruba white-cloth trees:** one Yoruba source is retrieved (APAS OAAJIS_1_1_8). The vodun comparison rests only on a Tier 4 Brazilian text.
+- **Vodun and Yoruba white-cloth trees:** the Yoruba practice is reported in a search snippet (APAS-YOR; authors not retrieved). The vodun comparison rests only on a Tier 4 Brazilian text. Both remain unverified for this package. (Updated in v1.1.)
 
 ### B.2 Single-lineage claims
 - **Obimo two-chamber grave, Ozo burial rites, and the Igirigi/BJMCMR/Etefia passages** all trace to the same underlying account (Ugwuoke 1998; Onu & Etefia 2019). They are one lineage of reporting, not several independent confirmations. The research package has been corrected to say so. Any reliance on these claims needs the original.

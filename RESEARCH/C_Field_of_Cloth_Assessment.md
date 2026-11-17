@@ -53,14 +53,14 @@ Each element is assessed separately. Multiple classifications apply. Confidence 
 ### E2 — Numerous individual poles (intended "numberless")
 - **Classification:** HISTORICALLY INSPIRED (poles and posts as ritual and architectural elements) **plus POTENTIALLY MISLEADING** when the poles form a repeated field in a funerary landscape.
 - **Evidence:** Shrine figures, house posts, ancestral figures and Nsude-type shrines are documented (B.4; V.1; V.9). No documented Igbo practice places a numberless field of poles around the dead. Nsude pyramids are shrines, not poles, and bear no cloth.
-- **Caution:** a repeated field of posts with cloth is closest to West African pole-flag traditions (e.g., Fante asafo), which are not Igbo (B.7.3).
+- **Caution:** a repeated field of posts with cloth may be read as West African pole or flag traditions, such as Cape Coast asafo flags (AID11, whose scope does not establish pole mounting or funerary use). Those traditions are not Igbo (B.7.3). The comparison is noted, not established.
 - **Confidence:** Medium for the poles as elements; Low for the field arrangement.
 
 ### E3 — One vertically hanging grey cloth strip per pole
 - **Classification:** POTENTIALLY MISLEADING and CULTURALLY SENSITIVE.
 - **Evidence:**
   - Not documented in the sources reviewed as a pre-colonial Igbo funerary, mourning or memorial marker (B.7.2).
-  - The closest documented Igbo cloth-on-structure practice is singular white cloth on a sacred tree trunk (devotional, REGIONALLY SPECIFIC) [APAS — VERIFY].
+  - The closest reported Igbo cloth-on-structure practice is white cloth on the trunk of some sacred trees (devotional, REGIONALLY SPECIFIC; secondary source only) [OKE22; ADI08 — unverified].
   - Cloth as grave goods and corpse covering is documented (REGIONALLY SPECIFIC) [IGI25]. Grey cloth is not described in these accounts; black cloth is.
 - **Caution:** the strip is a **burial-cloth** motif in the board's own wording. A viewer may read it as a grave goods or corpse-cloth reference. That is a claim about Igbo burial, which is not supported by evidence for this form.
 - **Confidence:** High that no documented equivalent was found; Medium that the reading as burial cloth is a risk; a consultant is required to confirm sensitivity.
@@ -88,7 +88,7 @@ Each element is assessed separately. Multiple classifications apply. Confidence 
 
 ### E7 — Death and boundary atmosphere ("gates of the dead")
 - **Classification:** FICTIONAL, with **POTENTIALLY MISLEADING** risk if read as Igbo afterlife.
-- **Evidence:** Death classes, bad death, second burial, and ancestral worlds are documented (B.1). A tree marker (the Ogirishi, reported as marking grave headsides and boundaries; Oha 2019 via Ochendo; VERIFY) is a documented boundary-related grave element, though it is a tree rather than poles or cloth. No single Igbo "gate" or boundary landscape is documented. The concept of a land of the dead varies by community and is **DISPUTED**.
+- **Evidence:** Death classes, bad death, second burial, and ancestral worlds are documented (B.1). A secondary source reports an Ogirishi tree associated with grave headsides and boundaries; the original source and locality remain unverified. The tree is not poles or cloth, and it is not an established grave marker.
 - **Caution:** a "Gates of the Dead" title asserts a fixed boundary structure. Use "gates" or "land of the dead" only as fictional terms, and do not attach them to Igbo religion.
 - **Confidence:** Medium.
 
@@ -105,7 +105,7 @@ The Creative Director asked for distinct labels. These are the working answers.
 
 | Category | Which elements | Note |
 |---|---|---|
-| **Historically documented practice** | None of the pole-field arrangement. Documented adjacent elements: grave-goods cloth, corpse-covering cloth, sacred-tree white cloth, shrine-wall cloth, poles/posts as shrine elements | Documented elements do not make the composition documented |
+| **Historically documented practice** | None of the pole-field arrangement. Adjacent elements: grave-goods cloth and corpse covering (one secondary account), sacred-tree white cloth (secondary source only), shrine-wall cult apparatus (Awka area; cloth not specified), poles and posts as shrine elements | Documented elements do not make the composition documented |
 | **Historically inspired visual interpretation** | E1 (ash-grey palette, weakly), E2 (poles as ritual/architectural elements) | Components have defensible references |
 | **Fictional artistic device** | E4 (never strung), E5 (path), E6 (focal newer strip, as intent), E7–E8 (land of the dead as invented setting) | Requires disclaimer and no Igbo attribution |
 | **Potentially misleading cultural representation** | E2 (numberless field as Igbo), E3 (strip as burial-cloth marker), E6 (newer strip as recent death), E7 (Igbo gates of the dead) | Risk of implying an Igbo custom |
@@ -116,19 +116,19 @@ The Creative Director asked for distinct labels. These are the working answers.
 ## Part 5 — The twelve assessment questions
 
 ### Q1. Is there reliable evidence for comparable pole-and-cloth arrangements in pre-colonial Igbo societies?
-**No**, not in the sources reviewed (55–60 searches, count approximate). Closest documented practices are singular cloth on sacred-tree trunks (REGIONALLY SPECIFIC), cloth grave goods and corpse coverings (REGIONALLY SPECIFIC), and shrine walls with cult apparatus (Awka area). [B.7.2]
+**No**, not in the sources reviewed (55–60 searches; count approximate). Closest reported practices are cloth on some sacred-tree trunks (secondary source only), cloth grave goods and corpse coverings (REGIONALLY SPECIFIC), and shrine walls with cult apparatus (Awka area). [B.7.2]
 **Confidence:** Medium (search-based; absence not proof).
 
 ### Q2. Are cloth strips, hanging textiles, poles or posts documented in Igbo funerary or mourning practices?
 - **Cloth:** yes, as grave goods and corpse covering (REGIONALLY SPECIFIC) [IGI25].
-- **Hanging textiles:** on sacred trees and shrine walls, not on funerary poles (REGIONALLY SPECIFIC).
+- **Hanging textiles:** reported on some sacred trees (secondary source only) and cult apparatus on Awka-area shrine walls (cloth not specified). No funerary pole use was found (REGIONALLY SPECIFIC).
 - **Poles/posts:** yes, as shrine figures and house posts; not documented as funerary markers with cloth.
 **Confidence:** Medium.
 
 ### Q3. If comparable arrangements exist, what were their actual purposes?
 - **Sacred-tree cloth:** devotional; shrine or lineage honour. Not funerary in the sources reviewed.
 - **Shrine-wall cult apparatus:** shrine and ritual objects; restricted.
-- **Ukara (Cross River Igbo, Ekpe):** cloth in meeting houses; restricted and tied to a society. Tier 4 lead; VERIFY.
+- **Ukara (Cross River; Igbo attribution UNVERIFIED, Ekpe):** cloth in meeting houses; restricted and tied to a society. Tier 4 lead; VERIFY.
 **Confidence:** Low–Medium.
 
 ### Q4. Were they associated with burial, mourning, memorialisation, title-taking, religious ceremonies or something else?
@@ -150,10 +150,10 @@ The Creative Director asked for distinct labels. These are the working answers.
 **Confidence:** Medium.
 
 ### Q7. Could the imagery be mistaken for another African culture's funerary tradition?
-**Yes, with a high probability.** Pole-and-cloth arrangements are strongly associated with:
-- **Fante asafo flags (Ghana):** cloth on poles, a famous West African pole-flag tradition.
-- **Ewe, Jeje and Brazilian vodun:** cloth-wrapped trees.
-- **Bongo grave posts (Sudan).**
+**Possibly.** The resemblance to some West African pole, flag and cloth-tree traditions is real. Whether viewers make that connection depends on their familiarity with those traditions, which was not measured. The comparisons below are listed with their evidence status:
+- **Fante (Cape Coast) asafo flags (Ghana):** company flags documented in Aidoo (2011), scope Cape Coast. Pole mounting is not established by the retrieved scope. Noted as a possible comparison only. [AID11]
+- **Ewe, Jeje and Brazilian vodun:** cloth-wrapped trees, reported in a Tier 4 text only. UNVERIFIED.
+- **Bongo grave posts (Sudan):** no source in this package. UNVERIFIED.
 A viewer familiar with these may attribute the field to a different tradition, and an Igbo-labelled game would then misattribute it.
 **Confidence:** High that the resemblance is real; Medium on how likely viewers are to make the connection.
 
@@ -168,7 +168,7 @@ A viewer familiar with these may attribute the field to a different tradition, a
 ### Q10. Can the visual concept be retained as an explicitly fictional landscape without claiming historical authenticity?
 **Conditionally yes, but not as an Igbo-attributed funerary landscape.** Options that the research does not decide (CD decision):
 - (a) Keep as fictional and clearly non-Igbo in naming and framing, with no Igbo attribution in any text or marketing.
-- (b) Keep as fictional within the Igbo-inspired world but change the funerary cloth motif to a clearly invented form that does not resemble documented Igbo, Asafo, or vodun practice.
+- (b) Keep as fictional within the Igbo-inspired world but change the funerary cloth motif to a clearly invented form that does not resemble documented Igbo practice or other African practice.
 - (c) Retain the landscape, drop the burial-cloth reading entirely, and consult before any burial-associated element is used.
 Under any option, the disclaimer must travel with the image.
 **Confidence:** Medium.
@@ -196,7 +196,7 @@ See **Deliverable F**. The most important are: (i) whether any community uses cl
 ### 6.1 What can we confidently represent as historically grounded in pre-colonial Igbo culture?
 - Community-specific ancestral and shrine structures (obi/obu/ovu halls, shrine walls, shrine figures) in general terms, with regional labels. **REGIONALLY SPECIFIC.**
 - Grave-related cloth as a general material fact: cloth was interred with the dead or used to cover the body in some communities. Use only with regional labels. **REGIONALLY SPECIFIC.**
-- Bast-fibre and ribbon-weave textiles (Igbo-Ukwu evidence), with no silk. **DOCUMENTED.**
+- Two examined Igbo-Ukwu textile samples (British Museum): *Ficus* bast and *Raphia* leaf fibre, with no silk reported. These findings concern the two samples only and do not describe Igbo textiles generally. **DOCUMENTED for the two samples.**
 - Iron-working and smithing, bronze work at Igbo-Ukwu (with the dating dispute noted). **DOCUMENTED.**
 - The four-day market week as a general cultural fact. **CORROBORATED.**
 - Ogene and ekwe as musical instruments. **CORROBORATED.**
