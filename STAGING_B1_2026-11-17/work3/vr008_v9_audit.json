@@ -1,0 +1,38 @@
+{
+ "pauldron_footprint": {
+  "gt2": 22801,
+  "gt12": 12834,
+  "max": 195
+ },
+ "armlet": {
+  "gt2": 863,
+  "gt12": 191,
+  "max": 28
+ },
+ "art_figure": {
+  "gt2": 23182,
+  "gt12": 12834,
+  "max": 195
+ },
+ "art_environment_left": {
+  "gt2": 0,
+  "gt12": 0,
+  "max": 0
+ },
+ "art_environment_right": {
+  "gt2": 0,
+  "gt12": 0,
+  "max": 0
+ },
+ "chrome_right_column": {
+  "gt2": 206421,
+  "gt12": 117126,
+  "max": 233
+ },
+ "footer_band": {
+  "gt2": 0,
+  "gt12": 0,
+  "max": 0
+ },
+ "total_gt12": 148467
+}
