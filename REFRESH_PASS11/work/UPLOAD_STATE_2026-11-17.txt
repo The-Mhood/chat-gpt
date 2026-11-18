@@ -1,0 +1,21 @@
+Upload and verify state (Research 1qEEDsGMhCy6JBd0hrrMPuZdFBfC8Zll2)
+- Uploaded: 65 of 78. IDs in uploaded_ids_2026-11-17.tsv.
+- Live listing (read-only, 65 files, all parent = Research): live_research_2026-11-17.tsv. Compared name/md5/size/parent with upload records: 0 mismatches.
+- Verified with verify_log.py against live values: 65 OK, 0 MISMATCH. Log: upload_log.tsv (65 rows).
+- NOT uploaded yet (13), listed in remaining_upload_2026-11-17.txt:
+  RR11_B2_PIXELDIFF_VR-008_V007.md
+  RR11_B2_RETOUCH_GUIDE_VR-006_BLOCKED.md
+  RR11_B2_RETOUCH_GUIDE_VR-007_BLOCKED.md
+  RR11_CAND_ESTABLISHING_V013_2560x1440.md
+  RR11_ENV_CH03-INT-004_THE_FORGOTTEN_KITCHEN_V002.md
+  RR11_ENV_CH03-INT-005_A_SLEEPING_ROOM_V002.md
+  RR11_ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V002.md
+  RR11_ENV_CH03-SUB-006_THE_BACK_PLOTS_V002.md
+  RR11_ENV_CH03-TRV-003_THE_NARROW_PASSAGES_V002.md
+  RR11_ENV_CH04-INT-001_A_FISHING_SHELTER_V002.md
+  RR11_ENV_CH04-INT-002_A_RIVERBANK_HOUSE_V002.md
+  RR11_ENV_CH04-INT-003_THE_CANOE_SHED_V002.md
+  RR11_ENV_CH04-SET-002_THE_TWO_HOUSE_LANDING_V002.md
+- Blocker: Merge upload rate limit (file_transfer_failed) persisted across ~3 minutes of cooldown in this reply. Resume uploads in a new reply, then verify these 13 with verify_log.py.
+- Inaccessible pictures marked BLOCKED by ID: none.
+- Commit/push: pending (see git log).

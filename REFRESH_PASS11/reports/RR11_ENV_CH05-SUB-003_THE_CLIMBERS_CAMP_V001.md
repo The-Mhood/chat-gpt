@@ -3,14 +3,16 @@
 - Seq: 27 of 78
 - Source folder: ORIGINAL
 - Picture file: ENV_CH05-SUB-003_THE_CLIMBERS_CAMP_V001.jpg
+- Drive file ID: 17uomx2sn8Jp8p7GZQFqzJz7zlBNOThg7
 - Local path: google_drive/ENV_CH05-SUB-003_THE_CLIMBERS_CAMP_V001.jpg
 - Local bytes: 319527
 - Local MD5: 97d405e15e2969515e4a3329c3202975
+- Live Drive bytes and MD5 (listing 2026-11-17): 319527 / 97d405e15e2969515e4a3329c3202975 (match)
 
 ## Visible content
 
-Painted view on a sheer rock face above cloud-filled valleys, with peaks in the distance and no people. On a ledge in the foreground are two A-frame lean-to shelters, one with a grass or thatch top and one with a stretched hide or cloth panel. A wooden ladder leans against the rock, with a stone fire ring, coiled rope and a bundle of poles nearby.
+Camp on a narrow rock ledge beside a steep cliff. Two lean-to shelters of poles with hide or thatch panels stand against the rock, a ring of stones holds a fire site, a coil of rope lies on the ledge, a wooden ladder leans on the rock at left, and cloud fills the valley below.
 
 ## Scope
 
-Written from the picture itself only. No prior reports, notes, ledgers or findings were used. The picture was not modified.
+Written from this picture only. The picture was viewed and the description was checked against it in this pass. The picture was not modified. Prior-refresh reports and earlier notes were not used.

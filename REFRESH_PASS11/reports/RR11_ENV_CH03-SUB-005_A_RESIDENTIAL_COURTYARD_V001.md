@@ -3,14 +3,16 @@
 - Seq: 13 of 78
 - Source folder: ORIGINAL
 - Picture file: ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V001.jpg
+- Drive file ID: 10Apn34FkRedH1E5NXGCa9KSZ1Dh42SJK
 - Local path: google_drive/ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V001.jpg
 - Local bytes: 416566
 - Local MD5: 9147eeb9255911f307f6cecc6e9220af
+- Live Drive bytes and MD5 (listing 2026-11-17): 416566 / 9147eeb9255911f307f6cecc6e9220af (match)
 
 ## Visible content
 
-Warm daylight courtyard with ochre and red brick walls and no people. A square brick planter holds a tree with a pale trunk and dense leaves. Indigo cloths hang on a line at left. At right, a stone trough has a running tap and a pool of water, beside weathered louvred wooden shutters and a large clay jar. A dark doorway with a stone surround sits at the back.
+Courtyard with a tree growing in a brick planter at centre. Indigo cloth hangs on a line at left against a brick wall, an open doorway in a stone frame sits in the back wall behind the tree, and a shuttered wooden door is at right beside a clay jar. A stone water trough with a tap and running water sits at lower right.
 
 ## Scope
 
-Written from the picture itself only. No prior reports, notes, ledgers or findings were used. The picture was not modified.
+Written from this picture only. The picture was viewed and the description was checked against it in this pass. The picture was not modified. Prior-refresh reports and earlier notes were not used.
