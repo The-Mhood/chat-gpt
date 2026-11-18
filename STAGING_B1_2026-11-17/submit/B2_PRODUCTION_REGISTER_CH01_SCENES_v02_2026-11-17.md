@@ -1,6 +1,6 @@
 # PRODUCTION REGISTER — CHAPTER 1 SCENE PLATES (REJECTED-QUEUE WORK)
 
-**Programme:** *The Disobedient Daughter* · **Register version:** `v01` · **Date:** 2026-11-17
+**Programme:** *The Disobedient Daughter* · **Register version:** `v02` · **Date:** 2026-11-17
 **Source queue:** `16_REJECTED_DESIGNS` (`1x5T4V3R-hnuUNCIFBIb1TBIezjlT0Q6c`)
 **Submission target:** `PENDING/ASSISTANT_VA_SUBMISSIONS` (`16p2TYXn16u9UNdMlJzjTK873YK_Fk7Ab`)
 **Queue rule:** oldest rejected asset first; one correction attempt per asset before any second attempt.
@@ -40,6 +40,18 @@
 | Submitted candidate | `B2_CAND_SCENE_CH01-SCN-017_VILLAGE_SQUARE_V002_1672x941.jpg` · `1uUV4ZaZekbL3MfyTfCZDBdLXuj2NFP3s` · 1672×941 · 652,287 B · MD5 `f5d9e96da8f5b791a652783297bc0d73` |
 | Residual risk | two doorway openings read dark at distance; they are doorways, not windows |
 
+
+### 1.4 `SCENE_CH01-SCN-022_STREETS` — `V001` → `V002` — **SUBMITTED**
+
+| Field | Value |
+|---|---|
+| Rejected original | `SCENE_CH01-SCN-022_STREETS_V001.jpg` · `1e20zBSR2Y_VAn_UD4SZlkFfHds1ojnYf` · 1672×941 · 347,661 B · MD5 `1859d10c8f9806c6c04670fd500ec2a2` (untouched) |
+| Correction spec | `REJECTION_REPORT_SCENE_CH01-SCN-022_STREETS_V001.md` (`1AOrnvhROoEvILDPJkbwNYTaTpsEzCySN`) §3, §5 |
+| Defects corrected | (1) smooth plastered rectilinear Sahelian lane idiom; (2) patterned blue cloth, `OAD-55/56` open flag |
+| Method | Full regeneration: roughly hand-built uneven earthen walls with rounded shoulders and buttresses, thatch-capped tops, timber-lintelled irregular doorways, thatch lean-tos part-roofing the lane, packed earth, clay pot, wooden mortar, drying gourds, and one **plain undyed** cloth on the line — no print textile was reintroduced, so the `OAD-55/56` question is left untouched rather than answered |
+| Submitted candidate | `B2_CAND_SCENE_CH01-SCN-022_STREETS_V002_1672x941.jpg` · `1lnMePbbXNHmDZTnbmcJW47RGbMtIfjo4` · 1672×941 · 653,983 B · MD5 `5de0d4a73317c9a9a994b8c4cfbfdb34` |
+| Residual risk | thatch awnings above the lane are dense; they read as roof runs, not as an invented structure |
+
 ## 2. Blocked
 
 | Asset | Missing production input | Queue position |
@@ -48,27 +60,26 @@
 
 ## 3. Queue — next up (oldest first, one attempt each)
 
-1. `SCENE_CH01-SCN-022_STREETS_V001` — report `1AOrnvhROoEvILDPJkbwNYTaTpsEzCySN`
-2. `SCENE_CH01-SCN-032_WELLS_V001` — `1fRel2FT9hmEJpoETK7ZPHFDElHY-7iRs`
-3. `SCENE_CH01-SCN-033_GATES_V001` — `1UxBKyVtCdQa6mFPrI4tMSUfY43xdqUMq`
-4. `SCENE_CH01-SCN-034_ROADS_V001` — `1bUztQ65iiKN35dPBmPTztZULqPjVRwBM`
-5. `SCENE_CH01-SCN-006_A_LARGE_FAMILY_COMPOUND_V001` — `1M4EI1vlloZ5gYnnrvN1dlapDeCbw72JR`
-6. `SCENE_CH01-SCN-007` / `SCN-008` `A_SMALL_FAMILY_HOUSE_V001` — `1PVysCvp…` / `14jQtIqE…`
-7. `SCENE_CH01-SCN-014_WATER_COLLECTION_POINT_V001` — `1dgsKVGC…`
-8. `SCENE_CH01-SCN-015_FISHING_STREAM_V001` — `1rxdnvML…`
-9. `SCENE_CH01-SCN-009_ELDERS_HOUSE_V001` — `11m9pypg…`
-10. `SCENE_CH01-SCN-013_MARKET_BACKROOMS_V001` — `1c-Enu-K3…`
-11. `SCENE_CH01-SCN-019_GATE_GUARD_SHELTER_V001` — `18lWtfZm…`
-12. `SCENE_CH01-SCN-021_BACK_LANES_V001` — `14adJMzy…`
-13. `SCENE_CH01-SCN-024_AN_EMPTY_HOUSE_V001` — `1qFeHwPR…`
-14. `SCENE_CH01-SCN-025_ANIMAL_PENS_V001` — `1mtok_Cv…`
-15. `SCENE_CH01-SCN-027_POTTERS_YARD_V001` — `1etTWWbp…`
-16. `SCENE_CH01-SCN-028_WEAVERS_HOUSE_V001` — `1k8ToQgr…`
-17. `SCENE_CH01-SCN-030_PALACE_COURTYARD_V001` — `1At7o5bI…`
-18. `ENV_CH01-EXP-003_THE_FORGOTTEN_PATH_V001` — `1XbWssnm…`
-19. `ENV_CH01-EXP-004_THE_SMALL_CLEARING_V001` — `1LwBx2at…`
-20. `ENV_CH01-EXP-005_THE_STILL_POOL_V001` — `1TezIpL-…`
-21. `ENV_CH01-SUB-017_THE_OVERGROWN_WALL_V001` — `1ov2gA_L…`
+1. `SCENE_CH01-SCN-032_WELLS_V001` — `1fRel2FT9hmEJpoETK7ZPHFDElHY-7iRs`
+2. `SCENE_CH01-SCN-033_GATES_V001` — `1UxBKyVtCdQa6mFPrI4tMSUfY43xdqUMq`
+3. `SCENE_CH01-SCN-034_ROADS_V001` — `1bUztQ65iiKN35dPBmPTztZULqPjVRwBM`
+4. `SCENE_CH01-SCN-006_A_LARGE_FAMILY_COMPOUND_V001` — `1M4EI1vlloZ5gYnnrvN1dlapDeCbw72JR`
+5. `SCENE_CH01-SCN-007` / `SCN-008` `A_SMALL_FAMILY_HOUSE_V001` — `1PVysCvp…` / `14jQtIqE…`
+6. `SCENE_CH01-SCN-014_WATER_COLLECTION_POINT_V001` — `1dgsKVGC…`
+7. `SCENE_CH01-SCN-015_FISHING_STREAM_V001` — `1rxdnvML…`
+8. `SCENE_CH01-SCN-009_ELDERS_HOUSE_V001` — `11m9pypg…`
+9. `SCENE_CH01-SCN-013_MARKET_BACKROOMS_V001` — `1c-Enu-K3…`
+10. `SCENE_CH01-SCN-019_GATE_GUARD_SHELTER_V001` — `18lWtfZm…`
+11. `SCENE_CH01-SCN-021_BACK_LANES_V001` — `14adJMzy…`
+12. `SCENE_CH01-SCN-024_AN_EMPTY_HOUSE_V001` — `1qFeHwPR…`
+13. `SCENE_CH01-SCN-025_ANIMAL_PENS_V001` — `1mtok_Cv…`
+14. `SCENE_CH01-SCN-027_POTTERS_YARD_V001` — `1etTWWbp…`
+15. `SCENE_CH01-SCN-028_WEAVERS_HOUSE_V001` — `1k8ToQgr…`
+16. `SCENE_CH01-SCN-030_PALACE_COURTYARD_V001` — `1At7o5bI…`
+17. `ENV_CH01-EXP-003_THE_FORGOTTEN_PATH_V001` — `1XbWssnm…`
+18. `ENV_CH01-EXP-004_THE_SMALL_CLEARING_V001` — `1LwBx2at…`
+19. `ENV_CH01-EXP-005_THE_STILL_POOL_V001` — `1TezIpL-…`
+20. `ENV_CH01-SUB-017_THE_OVERGROWN_WALL_V001` — `1ov2gA_L…`
 
 ## 4. Plate convention used for this batch
 
