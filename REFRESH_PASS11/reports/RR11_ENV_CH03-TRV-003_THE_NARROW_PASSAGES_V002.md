@@ -11,7 +11,7 @@
 
 ## Visible content
 
-Desaturated grey view of a narrow passage between two very high mud walls. Footprints cross a mound of sand in the ground, broken wall tops stand at the far end, and grain falls through the hazy air.
+Desaturated grey view of a narrow passage between two very high mud walls. Footprints run up the sandy path toward a low mound of sand, broken wall tops stand at the far end, and grain falls through the hazy air.
 
 ## Scope
 

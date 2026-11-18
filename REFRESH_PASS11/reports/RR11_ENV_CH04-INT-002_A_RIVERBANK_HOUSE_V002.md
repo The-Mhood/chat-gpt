@@ -11,7 +11,7 @@
 
 ## Visible content
 
-Painted view of a mud-walled house with a thatched roof on a riverbank. A small window is at left, and the open door shows a bed and fish hanging inside. Clay pots and baskets stand in front of the wall, a dugout canoe lies on the bank at lower right, and palms and a forested far bank sit beyond the water.
+Realistic rendered view of a mud-walled house with a thatched roof on a riverbank. A small barred window is at left, pale patches show on the walls, and a conical fish trap and a bamboo fence stand at far left. The open door shows a bed and fish hanging inside. Clay pots and baskets stand in front of the wall, a dugout canoe lies on the bank at lower right, and palms and a forested far bank sit beyond the water.
 
 ## Scope
 

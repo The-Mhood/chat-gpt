@@ -11,7 +11,7 @@
 
 ## Visible content
 
-Desaturated grey view of a stone-walled kitchen with fine grey particles in the air. A clay cooking pot sits on three stones over grey ash, herb bundles hang from a pole across the upper wall, and a dark doorway opening is at the back. Stacked round grinding stones with a shallow stone bowl sit at right, with a long pole leaning at the far right. An open doorway at left shows bare trees and pale ground outside.
+Desaturated grey view of a kitchen with mud-plastered walls and fine grey particles in the air. A clay cooking pot sits on three rounded stones over grey ash, herb bundles hang from a pole across the upper wall, and a dark doorway opening is in the back wall at centre-right. Stacked round grinding stones with a shallow bowl sit at right, with a long pole leaning at the far right and a basket at the top right edge. An open doorway at left shows bare trees and pale ground outside.
 
 ## Scope
 
