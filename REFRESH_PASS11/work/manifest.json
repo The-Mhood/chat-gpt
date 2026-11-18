@@ -1,0 +1,704 @@
+[
+ {
+  "seq": 1,
+  "picture": "CH01-SET-001-ST01_V001.jpg",
+  "report": "RR11_CH01-SET-001-ST01_V001.md",
+  "bytes": 728,
+  "md5": "a730018ebd2089c783c9b1dfcf578896",
+  "picture_md5": "6bc96ac39e58b88de89798bef2e3a163",
+  "picture_bytes": 288236
+ },
+ {
+  "seq": 2,
+  "picture": "CH01-SET-001-ST02_V001.jpg",
+  "report": "RR11_CH01-SET-001-ST02_V001.md",
+  "bytes": 746,
+  "md5": "fc2525c2796914d301d68777044f8aac",
+  "picture_md5": "07497ed4f825d7b58e5e87b0660e298d",
+  "picture_bytes": 401806
+ },
+ {
+  "seq": 3,
+  "picture": "CH01-SET-001-ST03_V001.jpg",
+  "report": "RR11_CH01-SET-001-ST03_V001.md",
+  "bytes": 700,
+  "md5": "9b3c6a066b79a0671cb7d05c931d04f8",
+  "picture_md5": "cb43f0277f450bd8cc83e8039d2d8260",
+  "picture_bytes": 259222
+ },
+ {
+  "seq": 4,
+  "picture": "CH01-SET-001-ST04_V001.jpg",
+  "report": "RR11_CH01-SET-001-ST04_V001.md",
+  "bytes": 704,
+  "md5": "92fb1e933797b340d14212995c29646d",
+  "picture_md5": "413ca01877b799dada63ade40dc3ebf2",
+  "picture_bytes": 271613
+ },
+ {
+  "seq": 5,
+  "picture": "CH01-SET-001-ST05_V001.jpg",
+  "report": "RR11_CH01-SET-001-ST05_V001.md",
+  "bytes": 692,
+  "md5": "f7e5315788aa8faaee87e854bfc153a9",
+  "picture_md5": "21e3d3c81b72e698e34de772a690bf16",
+  "picture_bytes": 346760
+ },
+ {
+  "seq": 6,
+  "picture": "CHAR_ADANNA_TURNAROUND_BACK_V001_REFERENCE_VS_CANDIDATE.jpg",
+  "report": "RR11_CHAR_ADANNA_TURNAROUND_BACK_V001_REFERENCE_VS_CANDIDATE.md",
+  "bytes": 986,
+  "md5": "9f948bb5d18ec28458668afeec1c21dd",
+  "picture_md5": "ac6a380f542e35efd45affc053e2df05",
+  "picture_bytes": 471228
+ },
+ {
+  "seq": 7,
+  "picture": "CHAR_ADANNA_TURNAROUND_FRONT_V001_REFERENCE_VS_CANDIDATE.jpg",
+  "report": "RR11_CHAR_ADANNA_TURNAROUND_FRONT_V001_REFERENCE_VS_CANDIDATE.md",
+  "bytes": 995,
+  "md5": "cbc38744a440ad5426346faabb0af218",
+  "picture_md5": "7d76482ba8e245b340565765f1c3cdb7",
+  "picture_bytes": 528761
+ },
+ {
+  "seq": 8,
+  "picture": "CHAR_ADANNA_TURNAROUND_LEFT_SIDE_V001_REFERENCE_VS_CANDIDATE.jpg",
+  "report": "RR11_CHAR_ADANNA_TURNAROUND_LEFT_SIDE_V001_REFERENCE_VS_CANDIDATE.md",
+  "bytes": 887,
+  "md5": "4adfed3b0e576ac1f6d479521d9ebc42",
+  "picture_md5": "dc67da65f23c4623e79bf3968a4137a0",
+  "picture_bytes": 503142
+ },
+ {
+  "seq": 9,
+  "picture": "CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V001_REFERENCE_VS_CANDIDATE.jpg",
+  "report": "RR11_CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V001_REFERENCE_VS_CANDIDATE.md",
+  "bytes": 960,
+  "md5": "3ffa338c85f84923c6778650cc21d429",
+  "picture_md5": "de040afd2f417f6d514f41421eaea57f",
+  "picture_bytes": 491226
+ },
+ {
+  "seq": 10,
+  "picture": "COSTUME_BREAKDOWN_SHEET_V001_REFERENCE_VS_CANDIDATE.jpg",
+  "report": "RR11_COSTUME_BREAKDOWN_SHEET_V001_REFERENCE_VS_CANDIDATE.md",
+  "bytes": 1063,
+  "md5": "f82b96853a38c42af197d7b363283e1d",
+  "picture_md5": "c07a7d149f494b7de72f57202f911a51",
+  "picture_bytes": 607803
+ },
+ {
+  "seq": 11,
+  "picture": "ENV_CH03-INT-004_THE_FORGOTTEN_KITCHEN_V001.jpg",
+  "report": "RR11_ENV_CH03-INT-004_THE_FORGOTTEN_KITCHEN_V001.md",
+  "bytes": 870,
+  "md5": "33bb5a680447b6647744702443e5bdea",
+  "picture_md5": "05d235bc3d7dfe6d56408e7a5ebfd496",
+  "picture_bytes": 261541
+ },
+ {
+  "seq": 12,
+  "picture": "ENV_CH03-INT-005_A_SLEEPING_ROOM_V001.jpg",
+  "report": "RR11_ENV_CH03-INT-005_A_SLEEPING_ROOM_V001.md",
+  "bytes": 784,
+  "md5": "b7155ac36b3a815044327400a32fc716",
+  "picture_md5": "19f8ad3618ee9dfa69297cbe5b90b63e",
+  "picture_bytes": 201513
+ },
+ {
+  "seq": 13,
+  "picture": "ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V001.jpg",
+  "report": "RR11_ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V001.md",
+  "bytes": 836,
+  "md5": "00248ede6ae81687ce748d196857a5f4",
+  "picture_md5": "9147eeb9255911f307f6cecc6e9220af",
+  "picture_bytes": 416566
+ },
+ {
+  "seq": 14,
+  "picture": "ENV_CH03-SUB-006_THE_BACK_PLOTS_V001.jpg",
+  "report": "RR11_ENV_CH03-SUB-006_THE_BACK_PLOTS_V001.md",
+  "bytes": 808,
+  "md5": "f7c7c76452e7c2fceff89cd3798727ec",
+  "picture_md5": "eb91726efa374c1c65298ae488dd0fd0",
+  "picture_bytes": 382030
+ },
+ {
+  "seq": 15,
+  "picture": "ENV_CH03-TRV-003_THE_NARROW_PASSAGES_V001.jpg",
+  "report": "RR11_ENV_CH03-TRV-003_THE_NARROW_PASSAGES_V001.md",
+  "bytes": 767,
+  "md5": "cc8e2c978f3e8ceac2f564f13466bc18",
+  "picture_md5": "de672ec7a42da26a5d8e7a11177f045b",
+  "picture_bytes": 201902
+ },
+ {
+  "seq": 16,
+  "picture": "ENV_CH04-EXP-003_THE_SMALL_ISLANDS_V001.jpg",
+  "report": "RR11_ENV_CH04-EXP-003_THE_SMALL_ISLANDS_V001.md",
+  "bytes": 802,
+  "md5": "1e8f3f50bd0ba252235c28bea81dc1b0",
+  "picture_md5": "7cf439f3297a14b76deda85efaf44856",
+  "picture_bytes": 296529
+ },
+ {
+  "seq": 17,
+  "picture": "ENV_CH04-EXP-006_THE_CAVE_BEHIND_THE_LOW_FALLS_V001.jpg",
+  "report": "RR11_ENV_CH04-EXP-006_THE_CAVE_BEHIND_THE_LOW_FALLS_V001.md",
+  "bytes": 793,
+  "md5": "be4af5d0ff1c80bf51d9bbb0ad324ad7",
+  "picture_md5": "424e44c7737356930c0cf13c097d6c63",
+  "picture_bytes": 372877
+ },
+ {
+  "seq": 18,
+  "picture": "ENV_CH04-INT-001_A_FISHING_SHELTER_V001.jpg",
+  "report": "RR11_ENV_CH04-INT-001_A_FISHING_SHELTER_V001.md",
+  "bytes": 742,
+  "md5": "0fe123adb85faaba518e2bf1e7a3eb9f",
+  "picture_md5": "a4e15a6dfdf8489392db87a6ae8bbada",
+  "picture_bytes": 381098
+ },
+ {
+  "seq": 19,
+  "picture": "ENV_CH04-INT-002_A_RIVERBANK_HOUSE_V001.jpg",
+  "report": "RR11_ENV_CH04-INT-002_A_RIVERBANK_HOUSE_V001.md",
+  "bytes": 792,
+  "md5": "4f297cf956c0724061a7b9c90adf9f64",
+  "picture_md5": "3e2616714a92b613f9a147306f3e20bf",
+  "picture_bytes": 337457
+ },
+ {
+  "seq": 20,
+  "picture": "ENV_CH04-INT-003_THE_CANOE_SHED_V001.jpg",
+  "report": "RR11_ENV_CH04-INT-003_THE_CANOE_SHED_V001.md",
+  "bytes": 817,
+  "md5": "0dfb130c8a9ee99bea8448d875235e73",
+  "picture_md5": "e8b6deece65dc5077eb28aaf0715112f",
+  "picture_bytes": 308982
+ },
+ {
+  "seq": 21,
+  "picture": "ENV_CH04-SET-002_THE_TWO_HOUSE_LANDING_V001.jpg",
+  "report": "RR11_ENV_CH04-SET-002_THE_TWO_HOUSE_LANDING_V001.md",
+  "bytes": 862,
+  "md5": "8f2d4baccfa7d4aa6116a39c27a12f75",
+  "picture_md5": "ed93aa1347b35ad9528c4ce8b0c65c01",
+  "picture_bytes": 323741
+ },
+ {
+  "seq": 22,
+  "picture": "ENV_CH05-EXP-002_THE_HIDDEN_CAVE_V001.jpg",
+  "report": "RR11_ENV_CH05-EXP-002_THE_HIDDEN_CAVE_V001.md",
+  "bytes": 738,
+  "md5": "0aaab38de2ff941eaefb43427247521b",
+  "picture_md5": "25eab40b09e9785a274353900d5d483f",
+  "picture_bytes": 287823
+ },
+ {
+  "seq": 23,
+  "picture": "ENV_CH05-INT-001_THE_HERDERS_SHELTER_V001.jpg",
+  "report": "RR11_ENV_CH05-INT-001_THE_HERDERS_SHELTER_V001.md",
+  "bytes": 841,
+  "md5": "9339992e2d2ff9789857add7fe882bc7",
+  "picture_md5": "04caf20e3eea50e47b27d4334f9af1fe",
+  "picture_bytes": 417217
+ },
+ {
+  "seq": 24,
+  "picture": "ENV_CH05-INT-002_A_VILLAGE_HOUSE_V001.jpg",
+  "report": "RR11_ENV_CH05-INT-002_A_VILLAGE_HOUSE_V001.md",
+  "bytes": 835,
+  "md5": "37d7ef4ee0ad8f35808fc54a82bb525e",
+  "picture_md5": "fd01a4a12b72a45b2f92c6890f2fd1aa",
+  "picture_bytes": 357609
+ },
+ {
+  "seq": 25,
+  "picture": "ENV_CH05-LMK-002_THE_ABANDONED_WATCHPOST_V001.jpg",
+  "report": "RR11_ENV_CH05-LMK-002_THE_ABANDONED_WATCHPOST_V001.md",
+  "bytes": 746,
+  "md5": "ff850f513ba1b0a112d9495db5256ae0",
+  "picture_md5": "870ae1174e70b77d23973470d7236439",
+  "picture_bytes": 279698
+ },
+ {
+  "seq": 26,
+  "picture": "ENV_CH05-SET-002_THE_UPPER_HAMLET_V001.jpg",
+  "report": "RR11_ENV_CH05-SET-002_THE_UPPER_HAMLET_V001.md",
+  "bytes": 689,
+  "md5": "3d7f21202da1a1b65f1bc09baff8c26a",
+  "picture_md5": "2df390431801009ed46a2fd4d56d3eef",
+  "picture_bytes": 276360
+ },
+ {
+  "seq": 27,
+  "picture": "ENV_CH05-SUB-003_THE_CLIMBERS_CAMP_V001.jpg",
+  "report": "RR11_ENV_CH05-SUB-003_THE_CLIMBERS_CAMP_V001.md",
+  "bytes": 806,
+  "md5": "6e32bc18f1cfc009f138e4ae8f6e4f06",
+  "picture_md5": "97d405e15e2969515e4a3329c3202975",
+  "picture_bytes": 319527
+ },
+ {
+  "seq": 28,
+  "picture": "ENV_CH06-INT-004_A_ROOM_THAT_EXPECTS_YOU_V001.jpg",
+  "report": "RR11_ENV_CH06-INT-004_A_ROOM_THAT_EXPECTS_YOU_V001.md",
+  "bytes": 905,
+  "md5": "68b55810ba5845e8f160198328891895",
+  "picture_md5": "705516f8cb143eee9525b70fd354490d",
+  "picture_bytes": 172472
+ },
+ {
+  "seq": 29,
+  "picture": "ENV_CH06-INT-005_THE_FORGOTTEN_ROOM_V001.jpg",
+  "report": "RR11_ENV_CH06-INT-005_THE_FORGOTTEN_ROOM_V001.md",
+  "bytes": 873,
+  "md5": "8898f490580d1f36c4d616da3aa03f95",
+  "picture_md5": "6eb6eb87b511e9be56bd95f81316295e",
+  "picture_bytes": 258955
+ },
+ {
+  "seq": 30,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_BACK_V003_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_BACK_V003_2560x1440.md",
+  "bytes": 1028,
+  "md5": "757d7ebef9af7a15dbe86ed3d169a09d",
+  "picture_md5": "75908260a12da2a1260b105659b7d6ee",
+  "picture_bytes": 2574938
+ },
+ {
+  "seq": 31,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_FRONT_V003_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_FRONT_V003_2560x1440.md",
+  "bytes": 943,
+  "md5": "8eae0e08cc520c7964198bad91f236ad",
+  "picture_md5": "f766197875d01884ee4077128b9aa072",
+  "picture_bytes": 2288349
+ },
+ {
+  "seq": 32,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_FRONT_V004_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_FRONT_V004_2560x1440.md",
+  "bytes": 899,
+  "md5": "731c0e5f8ac2ef16f3e48c482e568bb7",
+  "picture_md5": "4231e27e25a259e2083ba8878779b99d",
+  "picture_bytes": 2290525
+ },
+ {
+  "seq": 33,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_LEFT_SIDE_V003_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_LEFT_SIDE_V003_2560x1440.md",
+  "bytes": 914,
+  "md5": "6ade04e9d741a4e2ebd5b044ce4c6f02",
+  "picture_md5": "703d87e2851e179364aed3ebcfae1943",
+  "picture_bytes": 2444893
+ },
+ {
+  "seq": 34,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V003_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V003_2560x1440.md",
+  "bytes": 942,
+  "md5": "c660724a7e4d53b1acc612383f5ccc0e",
+  "picture_md5": "39d2227f17d91476f04aab674e36daf0",
+  "picture_bytes": 2431960
+ },
+ {
+  "seq": 35,
+  "picture": "B2_CAND_CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V004_2560x1440.png",
+  "report": "RR11_B2_CAND_CHAR_ADANNA_TURNAROUND_THREE_QUARTER_V004_2560x1440.md",
+  "bytes": 801,
+  "md5": "b529e3412980be2897e1d8463fee66cc",
+  "picture_md5": "a578b7c16be6d4ba8b5c6fae39d02fdd",
+  "picture_bytes": 2436291
+ },
+ {
+  "seq": 36,
+  "picture": "B2_CAND_SCENE_CH01-SCN-006_A_LARGE_FAMILY_COMPOUND_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-006_A_LARGE_FAMILY_COMPOUND_V002_1672x941.md",
+  "bytes": 1062,
+  "md5": "bd63da32c67d6dbd201d74e4249f4def",
+  "picture_md5": "ecac3a9ae184688d22c05250c18b601d",
+  "picture_bytes": 655645
+ },
+ {
+  "seq": 37,
+  "picture": "B2_CAND_SCENE_CH01-SCN-010_SMITHY_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-010_SMITHY_V002_1672x941.md",
+  "bytes": 881,
+  "md5": "448aee0e6b31087d8f89dba646ced2d2",
+  "picture_md5": "2b5b25b34f08274f496cfb12a9a5196d",
+  "picture_bytes": 479195
+ },
+ {
+  "seq": 38,
+  "picture": "B2_CAND_SCENE_CH01-SCN-012_MARKET_STALLS_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-012_MARKET_STALLS_V002_1672x941.md",
+  "bytes": 911,
+  "md5": "d15704d951959e4454270048e5a1834d",
+  "picture_md5": "0e14778fc699ba67676bb28d18696852",
+  "picture_bytes": 601280
+ },
+ {
+  "seq": 39,
+  "picture": "B2_CAND_SCENE_CH01-SCN-017_VILLAGE_SQUARE_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-017_VILLAGE_SQUARE_V002_1672x941.md",
+  "bytes": 894,
+  "md5": "c06fd497a5c13fcede5fa115eb6d7d8c",
+  "picture_md5": "f5d9e96da8f5b791a652783297bc0d73",
+  "picture_bytes": 652287
+ },
+ {
+  "seq": 40,
+  "picture": "B2_CAND_SCENE_CH01-SCN-022_STREETS_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-022_STREETS_V002_1672x941.md",
+  "bytes": 857,
+  "md5": "26f8f7de0d51260e3530dde19c012f23",
+  "picture_md5": "5de0d4a73317c9a9a994b8c4cfbfdb34",
+  "picture_bytes": 653983
+ },
+ {
+  "seq": 41,
+  "picture": "B2_CAND_SCENE_CH01-SCN-032_WELLS_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-032_WELLS_V002_1672x941.md",
+  "bytes": 770,
+  "md5": "708a47dd7a7e4eb569a49aa5dd5e5ac6",
+  "picture_md5": "3e5022b918e6a0e80e62a788ffed98ad",
+  "picture_bytes": 770431
+ },
+ {
+  "seq": 42,
+  "picture": "B2_CAND_SCENE_CH01-SCN-033_GATES_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-033_GATES_V002_1672x941.md",
+  "bytes": 736,
+  "md5": "680cf29740b8b9f384f116d6901f6f8f",
+  "picture_md5": "995d69623e1233f68573be098aa6bee8",
+  "picture_bytes": 629033
+ },
+ {
+  "seq": 43,
+  "picture": "B2_CAND_SCENE_CH01-SCN-034_ROADS_V002_1672x941.jpg",
+  "report": "RR11_B2_CAND_SCENE_CH01-SCN-034_ROADS_V002_1672x941.md",
+  "bytes": 791,
+  "md5": "17a53e7281eeef3e4e1255a1f3b65749",
+  "picture_md5": "fce770de8914f21dbd2b62e12bbc6927",
+  "picture_bytes": 597901
+ },
+ {
+  "seq": 44,
+  "picture": "B2_CAND_VR-011_LANDING_OF_UNCLAIMED_V002_2560x1440.png",
+  "report": "RR11_B2_CAND_VR-011_LANDING_OF_UNCLAIMED_V002_2560x1440.md",
+  "bytes": 1070,
+  "md5": "5a7259276efdd40825df135597e44acf",
+  "picture_md5": "f27c1b98e2d4b415c99cb9326210eef6",
+  "picture_bytes": 2487843
+ },
+ {
+  "seq": 45,
+  "picture": "B2_COMPARE_ADANNA_TURNAROUND_V002_alignment.jpg",
+  "report": "RR11_B2_COMPARE_ADANNA_TURNAROUND_V002_alignment.md",
+  "bytes": 965,
+  "md5": "b358ca4c37e8c20a046da8f5d58b4bd7",
+  "picture_md5": "2c2952fe5ea6b131fb68067ff7b8c652",
+  "picture_bytes": 277898
+ },
+ {
+  "seq": 46,
+  "picture": "B2_COMPARE_ADANNA_TURNAROUND_V003_alignment.jpg",
+  "report": "RR11_B2_COMPARE_ADANNA_TURNAROUND_V003_alignment.md",
+  "bytes": 1008,
+  "md5": "904041bae313a219c71214998b491231",
+  "picture_md5": "e10c3802834c3e4d6bf80eed80ab1afe",
+  "picture_bytes": 300888
+ },
+ {
+  "seq": 47,
+  "picture": "B2_COMPARE_COSTUME_BREAKDOWN_V001_vs_V002.jpg",
+  "report": "RR11_B2_COMPARE_COSTUME_BREAKDOWN_V001_vs_V002.md",
+  "bytes": 1028,
+  "md5": "70c605d6d68297932472a0b050c1f1a6",
+  "picture_md5": "16b40eeea9cdcb44d1cf6a371f8b4f38",
+  "picture_bytes": 536913
+ },
+ {
+  "seq": 48,
+  "picture": "B2_COMPARE_ESTABLISHING.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING.md",
+  "bytes": 898,
+  "md5": "efe0fff1bd9d42f066e8772bec283006",
+  "picture_md5": "1cd0a2fb4d4eb45a662213f486dafa9b",
+  "picture_bytes": 526257
+ },
+ {
+  "seq": 49,
+  "picture": "B2_COMPARE_ESTABLISHING_V005_vs_V007.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V005_vs_V007.md",
+  "bytes": 896,
+  "md5": "445724a7e394a56415c14b319d7f54cd",
+  "picture_md5": "4cc128da650b6a34641e9d22e14f8442",
+  "picture_bytes": 901851
+ },
+ {
+  "seq": 50,
+  "picture": "B2_COMPARE_ESTABLISHING_V005_vs_V008.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V005_vs_V008.md",
+  "bytes": 898,
+  "md5": "9ce22bcf728d9ee229ab4dcf066176c6",
+  "picture_md5": "6ed2698acf07f25541c457a4339ec855",
+  "picture_bytes": 931459
+ },
+ {
+  "seq": 51,
+  "picture": "B2_COMPARE_ESTABLISHING_V008_vs_V009.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V008_vs_V009.md",
+  "bytes": 968,
+  "md5": "068f729af16b905483e5f3e795ef3ca9",
+  "picture_md5": "0d84d948bfb06352314a51c14b4079f0",
+  "picture_bytes": 1785731
+ },
+ {
+  "seq": 52,
+  "picture": "B2_COMPARE_ESTABLISHING_V009_vs_V010.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V009_vs_V010.md",
+  "bytes": 857,
+  "md5": "8fe9895acaeedb23f20c9818e31c5dc3",
+  "picture_md5": "cd427cbe33686b748c832a66c95e5edc",
+  "picture_bytes": 1907538
+ },
+ {
+  "seq": 53,
+  "picture": "B2_COMPARE_ESTABLISHING_V010_vs_V011_CHROME.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V010_vs_V011_CHROME.md",
+  "bytes": 962,
+  "md5": "889a73efdb7cf5201a8906613af97665",
+  "picture_md5": "d7b7645c2059eba26253ab74ff606503",
+  "picture_bytes": 136059
+ },
+ {
+  "seq": 54,
+  "picture": "B2_COMPARE_ESTABLISHING_V011_vs_V012.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V011_vs_V012.md",
+  "bytes": 934,
+  "md5": "b0511f88ed2950be73d4b91a3adac107",
+  "picture_md5": "c1d7052eb47e055eee1d164f4032c487",
+  "picture_bytes": 1413487
+ },
+ {
+  "seq": 55,
+  "picture": "B2_COMPARE_ESTABLISHING_V012_vs_V013.jpg",
+  "report": "RR11_B2_COMPARE_ESTABLISHING_V012_vs_V013.md",
+  "bytes": 963,
+  "md5": "b8c56d4dfb4fad00700953101877ef7f",
+  "picture_md5": "a4d954d2e931f7649482968395f487d8",
+  "picture_bytes": 935882
+ },
+ {
+  "seq": 56,
+  "picture": "B2_COMPARE_VR-008.jpg",
+  "report": "RR11_B2_COMPARE_VR-008.md",
+  "bytes": 865,
+  "md5": "458d7f1718c7042f11796fa5527c8ecf",
+  "picture_md5": "b8e293546275eee5967595cc68528f38",
+  "picture_bytes": 422578
+ },
+ {
+  "seq": 57,
+  "picture": "B2_COMPARE_VR-008_V005_to_V008_with_references.jpg",
+  "report": "RR11_B2_COMPARE_VR-008_V005_to_V008_with_references.md",
+  "bytes": 937,
+  "md5": "c78ed48a8694c34d5cbb759f88885ab5",
+  "picture_md5": "cdf09d5f7bf0ee321c971db371516c61",
+  "picture_bytes": 730009
+ },
+ {
+  "seq": 58,
+  "picture": "B2_COMPARE_VR-008_V005_vs_V007.jpg",
+  "report": "RR11_B2_COMPARE_VR-008_V005_vs_V007.md",
+  "bytes": 883,
+  "md5": "ea23653ce86d5741d942367cf6fe8c48",
+  "picture_md5": "ad788e8f6c871f3e99104fc467e950d1",
+  "picture_bytes": 765180
+ },
+ {
+  "seq": 59,
+  "picture": "B2_COMPARE_VR-008_V008_vs_V009.jpg",
+  "report": "RR11_B2_COMPARE_VR-008_V008_vs_V009.md",
+  "bytes": 854,
+  "md5": "c9d44edcccfb8d5f2276cccba61cd88d",
+  "picture_md5": "7f5fbc9b9f31ec4ffb0998403158d7c7",
+  "picture_bytes": 967026
+ },
+ {
+  "seq": 60,
+  "picture": "B2_COMPARE_VR-010.jpg",
+  "report": "RR11_B2_COMPARE_VR-010.md",
+  "bytes": 902,
+  "md5": "042e657f2741edd7d090d07e36918541",
+  "picture_md5": "665fd425d0b6fb7bd1cd5436bf27b34b",
+  "picture_bytes": 510497
+ },
+ {
+  "seq": 61,
+  "picture": "B2_COMPARE_VR-010_WASHING_PLACE_V002_vs_V004.jpg",
+  "report": "RR11_B2_COMPARE_VR-010_WASHING_PLACE_V002_vs_V004.md",
+  "bytes": 937,
+  "md5": "07631ced73549f2db1f709b2252c059f",
+  "picture_md5": "ebd609bd2c9255a5b5752e32d4599d8d",
+  "picture_bytes": 849845
+ },
+ {
+  "seq": 62,
+  "picture": "B2_COMPARE_VR-010_WASHING_PLACE_V002_vs_V005.jpg",
+  "report": "RR11_B2_COMPARE_VR-010_WASHING_PLACE_V002_vs_V005.md",
+  "bytes": 873,
+  "md5": "4e757f13cd16a53d11f8927e5ae8a4c9",
+  "picture_md5": "8c544516396839f7663a1a8a2e24287e",
+  "picture_bytes": 780362
+ },
+ {
+  "seq": 63,
+  "picture": "B2_COMPARE_VR-011.jpg",
+  "report": "RR11_B2_COMPARE_VR-011.md",
+  "bytes": 863,
+  "md5": "ffd4f26f6c8c8727b5298934304af5ac",
+  "picture_md5": "1be8450ca37c5d60654d95c78747e4aa",
+  "picture_bytes": 408974
+ },
+ {
+  "seq": 64,
+  "picture": "B2_COMPARE_WALL_OF_HOUSES.jpg",
+  "report": "RR11_B2_COMPARE_WALL_OF_HOUSES.md",
+  "bytes": 839,
+  "md5": "ce2f2cc129aa30d9eadc540d0f481661",
+  "picture_md5": "ff0afa1674baf4951e5e1d46fb36ba76",
+  "picture_bytes": 425152
+ },
+ {
+  "seq": 65,
+  "picture": "B2_COMPARE_WALL_OF_HOUSES_V003_vs_V005.jpg",
+  "report": "RR11_B2_COMPARE_WALL_OF_HOUSES_V003_vs_V005.md",
+  "bytes": 941,
+  "md5": "b4963732b282b830c20d140af6cd4a6d",
+  "picture_md5": "022f4b27099b9e4ae462ba40828e0581",
+  "picture_bytes": 682415
+ },
+ {
+  "seq": 66,
+  "picture": "B2_PIXELDIFF_VR-008_V007.jpg",
+  "report": "RR11_B2_PIXELDIFF_VR-008_V007.md",
+  "bytes": 822,
+  "md5": "c06390aa8efe3e1255b153a3c8a26c88",
+  "picture_md5": "242fc74f89f384ac870877d866c059da",
+  "picture_bytes": 346459
+ },
+ {
+  "seq": 67,
+  "picture": "B2_RETOUCH_GUIDE_VR-006_BLOCKED.jpg",
+  "report": "RR11_B2_RETOUCH_GUIDE_VR-006_BLOCKED.md",
+  "bytes": 1075,
+  "md5": "bf3a50ac4d85f2bd0b6b6976e104e455",
+  "picture_md5": "23e113720ad6d37476bf53e23a2f6be9",
+  "picture_bytes": 950629
+ },
+ {
+  "seq": 68,
+  "picture": "B2_RETOUCH_GUIDE_VR-007_BLOCKED.jpg",
+  "report": "RR11_B2_RETOUCH_GUIDE_VR-007_BLOCKED.md",
+  "bytes": 1130,
+  "md5": "3f99654d81943ffa068350f158b284d3",
+  "picture_md5": "0837a24ad66067361655192b42fb0227",
+  "picture_bytes": 901594
+ },
+ {
+  "seq": 69,
+  "picture": "CAND_ESTABLISHING_V013_2560x1440.png",
+  "report": "RR11_CAND_ESTABLISHING_V013_2560x1440.md",
+  "bytes": 1091,
+  "md5": "c7efd7e0ffbeeb04d0aebafcf5874f67",
+  "picture_md5": "b4986e76bac7497d4890f3616c2b6339",
+  "picture_bytes": 3931605
+ },
+ {
+  "seq": 70,
+  "picture": "ENV_CH03-INT-004_THE_FORGOTTEN_KITCHEN_V002.jpg",
+  "report": "RR11_ENV_CH03-INT-004_THE_FORGOTTEN_KITCHEN_V002.md",
+  "bytes": 794,
+  "md5": "edbd1a8f1712b07171482f633a519cea",
+  "picture_md5": "fb40cdfd3a8dc941e72732b106529d90",
+  "picture_bytes": 326548
+ },
+ {
+  "seq": 71,
+  "picture": "ENV_CH03-INT-005_A_SLEEPING_ROOM_V002.jpg",
+  "report": "RR11_ENV_CH03-INT-005_A_SLEEPING_ROOM_V002.md",
+  "bytes": 701,
+  "md5": "ed73b7665d037bf0be0491a73356eb58",
+  "picture_md5": "f8bc416ce2d9f7917973fb4fb0dc9e35",
+  "picture_bytes": 220967
+ },
+ {
+  "seq": 72,
+  "picture": "ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V002.jpg",
+  "report": "RR11_ENV_CH03-SUB-005_A_RESIDENTIAL_COURTYARD_V002.md",
+  "bytes": 763,
+  "md5": "d35ad05e5913285f6cca079e346579bb",
+  "picture_md5": "3089de400520bb8bb59912134790af82",
+  "picture_bytes": 289520
+ },
+ {
+  "seq": 73,
+  "picture": "ENV_CH03-SUB-006_THE_BACK_PLOTS_V002.jpg",
+  "report": "RR11_ENV_CH03-SUB-006_THE_BACK_PLOTS_V002.md",
+  "bytes": 757,
+  "md5": "87bbe6f530b6dc52041217ede7348b72",
+  "picture_md5": "95d9b92d34b090aa94bc1faaf7bddc63",
+  "picture_bytes": 391457
+ },
+ {
+  "seq": 74,
+  "picture": "ENV_CH03-TRV-003_THE_NARROW_PASSAGES_V002.jpg",
+  "report": "RR11_ENV_CH03-TRV-003_THE_NARROW_PASSAGES_V002.md",
+  "bytes": 661,
+  "md5": "4d15f33ab0d9dba10927dadf1602cec9",
+  "picture_md5": "8b02b0087f181b0aa3f9d8c2fdc525d8",
+  "picture_bytes": 361993
+ },
+ {
+  "seq": 75,
+  "picture": "ENV_CH04-INT-001_A_FISHING_SHELTER_V002.jpg",
+  "report": "RR11_ENV_CH04-INT-001_A_FISHING_SHELTER_V002.md",
+  "bytes": 722,
+  "md5": "8d340dfc5116b419eae06b12f2362c52",
+  "picture_md5": "8abc676e02f4b0a068d0810241ca797f",
+  "picture_bytes": 270003
+ },
+ {
+  "seq": 76,
+  "picture": "ENV_CH04-INT-002_A_RIVERBANK_HOUSE_V002.jpg",
+  "report": "RR11_ENV_CH04-INT-002_A_RIVERBANK_HOUSE_V002.md",
+  "bytes": 730,
+  "md5": "ebfae47095e03ad8dc35b484e300507d",
+  "picture_md5": "3261013e9e7b46f61ce4ea7243ea816b",
+  "picture_bytes": 399039
+ },
+ {
+  "seq": 77,
+  "picture": "ENV_CH04-INT-003_THE_CANOE_SHED_V002.jpg",
+  "report": "RR11_ENV_CH04-INT-003_THE_CANOE_SHED_V002.md",
+  "bytes": 743,
+  "md5": "bbb0f54db25000cf033eaa19be5616db",
+  "picture_md5": "c0eda25149958ecf6a6eff5764f67ae0",
+  "picture_bytes": 393111
+ },
+ {
+  "seq": 78,
+  "picture": "ENV_CH04-SET-002_THE_TWO_HOUSE_LANDING_V002.jpg",
+  "report": "RR11_ENV_CH04-SET-002_THE_TWO_HOUSE_LANDING_V002.md",
+  "bytes": 703,
+  "md5": "7c8c41b30d73dd74aa834ea4972dd5d0",
+  "picture_md5": "b90eb10a3a9ff284f59702413f6301c4",
+  "picture_bytes": 371136
+ }
+]
