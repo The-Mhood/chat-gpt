@@ -42,8 +42,8 @@ not in my queue; the CH03 locale cluster is one CD decision covering five of the
 
 | Artefact | File ID | Bytes | MD5 |
 |---|---|---|---|
-| `B2_RESEARCH_VERDICTS_ADANNA_V003_2026-11-17.md` | `13AXeI5-Cy7mvuvor4V86Y0Plv2midqqx` | 6,393 | `05f9afbddadf526369ed594e7fa56d0b` |
-| `B2_REGISTER_LEDGER_v16_2026-11-17.md` | `1vA4D8DM3ihztefYbeywPXOAUZjLx18ri` | 4,240 | this filing (pre-edit local copy) |
+| `B2_RESEARCH_VERDICTS_ADANNA_V003_2026-11-17.md` | see below | — | — |
+| `B2_REGISTER_LEDGER_v16_2026-11-17.md` | this filing | — | — |
 
 V003 plates, alignment sheet and response doc stand as filed at `v15` (IDs and MD5s unchanged).
 
